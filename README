@@ -1,0 +1,15 @@
+Parser für die SVgroup Menues
+
+Usage:
+http://imrof.li/svgroup/ -> Todays menu for the HSR
+http://imrof.li/svgroup/?day=3 -> wednesdays menu for the hsr
+http://imrof.li/svgroup/?day=5&mensa=technolino -> fridays menu for the technolino mensa
+http://imrof.li/svgroup/?day=5&mensa=technolino&form=xml -> fridays menu for the technolino mensa in XML
+
+
+Days: from 0-5 (zero means today)
+mensas: every mensa which uses the svgroup layout (like technolino or hochschule-rapperswil)
+	it's the subdomain of the mensa (example: http://technolino.svgroup.ch.... -> mensa=technolino)
+Formats: empty or form=html means HTML
+		form=xml -> XML
+		form=json -> JSON 
