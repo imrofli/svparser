@@ -5,6 +5,7 @@ http://imrof.li/svgroup/ -> Todays menu for the HSR
 http://imrof.li/svgroup/?day=3 -> wednesdays menu for the hsr
 http://imrof.li/svgroup/?day=5&mensa=technolino -> fridays menu for the technolino mensa
 http://imrof.li/svgroup/?day=5&mensa=technolino&form=xml -> fridays menu for the technolino mensa in XML
+http://imrof.li/svgroup/?day=3&weekmod=-10 -> wednesdays menu from 10 weeks ago
 
 
 Days: from 0-5 (zero means today)
