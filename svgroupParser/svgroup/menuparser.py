@@ -4,7 +4,7 @@ from BeautifulSoup import BeautifulSoup
 from menu import menu
 import re
 
-class svparser(object):
+class menuparser(object):
     def __init__(self, form, subdomain):
         self.data = ''
         self.buffer = ''

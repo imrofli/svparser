@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import httplib
 import sys
-from svparser import svparser
+from menuparser import menuparser
 sys.stderr = sys.stdout
 
 def check_int(s):
@@ -38,7 +38,7 @@ if weekday < 8 and weekday > -1:
     else:
         data = res.read()
         allheaders = res.getheaders()
-        parse = svparser(form, subdomain)
+        parse = menuparser(form, subdomain)
         parse.parse(data)
         print parse.printAll().encode("utf-8")
 else:
