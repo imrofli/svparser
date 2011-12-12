@@ -2,7 +2,7 @@
 error_reporting(EALL);
 set_time_limit(60);
 $day = $_GET["day"];
-if(!($day<6 and $day>-1)){
+if(!($day<8 and $day>-1)){
 $day=0;
 }
 
@@ -17,11 +17,16 @@ else {
 $form_chosen=0;
 }
 
+$weekmod = $_GET["weekmod"];
+if(empty($weekmod)){
+$weekmod = 0;
+}
+
 $mensa = escapeshellcmd($_GET["mensa"]);
 if(empty($mensa)){
 $mensa="hochschule-rapperswil";
 }
-$command="python menu2xml.py " .$day ." " .$form_chosen . " " . $mensa;
+$command="python menu2xml.py " .$day ." " .$form_chosen . " " .$weekmod . " " . $mensa;
 //echo $command;
 if($form_chosen==1){
 header("Content-type: text/xml");

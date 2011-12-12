@@ -13,14 +13,20 @@ if (len(sys.argv) > 1):
         form = int(sys.argv[2])
     else:
         form = 0
-    subdomain=sys.argv[3]
+    if sys.argv[3].isdigit():
+        weekDiff = int(sys.argv[3])
+    else:
+        weekDiff = 0
+    subdomain=sys.argv[4]
 else:
     weekday = 0
     form = 0
+    weekDiff = 0
     subdomain = 'hochschule-rapperswil'
-if weekday<6 and weekday >-1:
-    h1 = httplib.HTTPConnection(subdomain +'.sv-group.ch')
-    h1.request('GET', '/de/menuplan.html?addGP[weekday]=' + str(weekday)+'&addGP[weekmod]=0')
+    
+if weekday < 8 and weekday > -1:
+    h1 = httplib.HTTPConnection(subdomain + '.sv-group.ch')
+    h1.request('GET', '/de/menuplan.html?addGP[weekday]=' + str(weekday) + '&addGP[weekmod]=' + str(weekDiff))
     res = h1.getresponse()
     if res.status != 200:
         print 'Errr!!!! Address seems to be a troublesome URL. The "Internet" says "', res.reason, '" and the status was', res.status, '. Try again.'
@@ -32,4 +38,4 @@ if weekday<6 and weekday >-1:
         print parse.printAll().encode("utf-8")
 else:
     print 'ERROR 001: Fucking idiot. how many workdays does a week have? Right... 5'
-sys.exit()
+return 0
