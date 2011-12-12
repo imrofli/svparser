@@ -4,6 +4,11 @@ import sys
 from svparser import svparser
 sys.stderr = sys.stdout
 
+def check_int(s):
+    if s[0] in ('-', '+'):
+        return s[1:].isdigit()
+    return s.isdigit()
+
 if (len(sys.argv) > 1):
     if sys.argv[1].isdigit():
         weekday = int(sys.argv[1])
@@ -13,7 +18,7 @@ if (len(sys.argv) > 1):
         form = int(sys.argv[2])
     else:
         form = 0
-    if sys.argv[3].isdigit():
+    if check_int(sys.argv[3]):
         weekDiff = int(sys.argv[3])
     else:
         weekDiff = 0
@@ -38,4 +43,3 @@ if weekday < 8 and weekday > -1:
         print parse.printAll().encode("utf-8")
 else:
     print 'ERROR 001: Fucking idiot. how many workdays does a week have? Right... 5'
-return 0
