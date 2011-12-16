@@ -139,20 +139,6 @@
 <latitude>9.5126143</latitude>
 </mensa>
 <mensa>
-<name>Cafeteria FMS</name>
-<owner>Fachmaturitätsschule Basel-Stadt, Basel</owner>
-<address>Engelgasse 120</address>
-<plz>4052</plz>
-<city>Basel</city>
-<telephone>Telefon +41 61 311 09 06</telephone>
-<opentime>Montag bis Freitag
-09.00 - 14.00 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.5471046</longitude>
-<latitude>7.6051451</latitude>
-</mensa>
-<mensa>
 <name>Cafeteria Gourmetro</name>
 <owner>MIAG C.V. Diemen NL</owner>
 <address>Neuhofstrasse 4</address>
@@ -179,47 +165,6 @@
 <subdomain>lastrada</subdomain>
 <longitude>47.5450936</longitude>
 <latitude>7.5960797</latitude>
-</mensa>
-<mensa>
-<name>Cafeteria WG Basel</name>
-<owner>Wirtschaftsgymnasium</owner>
-<address>Andreas Heusler-Strasse 41</address>
-<plz>4052</plz>
-<city>Basel</city>
-<telephone>Telefon +41 61 311 21 02</telephone>
-<opentime>Montag bis Freitag
-08.30 - 14.00 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.5469272</longitude>
-<latitude>7.6034309</latitude>
-</mensa>
-<mensa>
-<name>Cantine de Drognens</name>
-<owner>armasuisse Immobilien</owner>
-<address>Place d&#039;Armes de Drognens</address>
-<plz>1680</plz>
-<city>Romont</city>
-<telephone>Telefon +41 26 652 79 60</telephone>
-<opentime>selon l&#039;occupation</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>46.695455</longitude>
-<latitude>6.916875</latitude>
-</mensa>
-<mensa>
-<name>Clausiusbar</name>
-<owner>ETH Zürich</owner>
-<address>Tannenstrasse 3</address>
-<plz>8092</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 632 62 70</telephone>
-<opentime>Montag bis Freitag Mensa 08.00 - 14.00 Uhr
-Cafeteria 11.30 - 16.00 Uhr</opentime>
-<website>http://www.gastro.ethz.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.3773389</longitude>
-<latitude>8.5469413</latitude>
 </mensa>
 <mensa>
 <name>Culinarium Grüze</name>
@@ -321,62 +266,6 @@ Take Away 07.00 - 16.00 Uhr</opentime>
 <latitude>8.4990385</latitude>
 </mensa>
 <mensa>
-<name>Dine&amp;Shine</name>
-<owner>SV (Schweiz) AG</owner>
-<address>Steinackerstrasse 43</address>
-<plz>8902</plz>
-<city>Urdorf</city>
-<telephone>Telefon +41 44 405 78 78</telephone>
-<opentime>-</opentime>
-<website>http://www2.dine-shine.ch</website>
-<subdomain>www2</subdomain>
-<longitude>47.3954274</longitude>
-<latitude>8.4228230</latitude>
-</mensa>
-<mensa>
-<name>ETH Alumni quattro Lounge «HIL»</name>
-<owner>ETH Zürich, Science City</owner>
-<address>Wolfgang-Pauli-Strasse 15</address>
-<plz>8093</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 633 72 12</telephone>
-<opentime>Montag bis Freitag 08.00 - 22.00 Uhr</opentime>
-<website>http://www.alumnilounge.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.4083349</longitude>
-<latitude>8.5069345</latitude>
-</mensa>
-<mensa>
-<name>ETH bQm KulturCafé &amp; Bar</name>
-<owner>ETH Zürich</owner>
-<address>Leonhardstrasse 34</address>
-<plz>8092</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 632 75 03</telephone>
-<opentime>Montag und Dienstag
-11.30 - 23.00 Uhr  Mittwoch und Donnerstag
-11.30 - 24.00 Uhr  Freitag
-11.30 - 21.00 Uhr</opentime>
-<website>http://www.bqm.li</website>
-<subdomain>www</subdomain>
-<longitude>47.3765521</longitude>
-<latitude>8.5464482</latitude>
-</mensa>
-<mensa>
-<name>ETH Chemierestaurant</name>
-<owner>ETH Zürich, Science City</owner>
-<address>Wolfgang-Pauli-Strasse 10</address>
-<plz>8093</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 633 72 67</telephone>
-<opentime>Montag bis Freitag
-11.15 - 14.00 Uhr (Juni - September geschlossen)</opentime>
-<website>http://www.gastro.ethz.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.4061810</longitude>
-<latitude>8.5090882</latitude>
-</mensa>
-<mensa>
 <name>Fernsehrestaurant Schweizer Fernsehen</name>
 <owner>Schweizer Fernsehen</owner>
 <address>Fernsehstrasse 1-4</address>
@@ -391,20 +280,6 @@ Take Away 07.00 - 16.00 Uhr</opentime>
 <latitude>8.5604346</latitude>
 </mensa>
 <mensa>
-<name>G-ESSbar</name>
-<owner>ETH Zürich</owner>
-<address>Haldeneggsteig 4</address>
-<plz>8092</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 632 62 56</telephone>
-<opentime>Montag bis Freitag
-08.00 - 16.30 Uhr</opentime>
-<website>http://www.gastro.ethz.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.3803845</longitude>
-<latitude>8.5445149</latitude>
-</mensa>
-<mensa>
 <name>Gastronomiebereich Gymnasium Immensee</name>
 <owner>Gymnasium Immensee</owner>
 <address>Bethlehemweg 12</address>
@@ -417,20 +292,6 @@ Take Away 07.00 - 16.00 Uhr</opentime>
 <subdomain>immensee</subdomain>
 <longitude>47.0928234</longitude>
 <latitude>8.4541341</latitude>
-</mensa>
-<mensa>
-<name>Gloriabar</name>
-<owner>ETH Zürich</owner>
-<address>Gloriastrasse 35</address>
-<plz>8092</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 632 62 48</telephone>
-<opentime>Montag bis Freitag
-07.30 - 16.30 Uhr</opentime>
-<website>http://www.gastro.ethz.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.3774255</longitude>
-<latitude>8.5529023</latitude>
 </mensa>
 <mensa>
 <name>Gourmetina</name>
@@ -473,19 +334,6 @@ Take Away 07.00 - 16.00 Uhr</opentime>
 <subdomain>mensa-kzu</subdomain>
 <longitude>47.5175442</longitude>
 <latitude>8.5487094</latitude>
-</mensa>
-<mensa>
-<name>Mensa</name>
-<owner>ZAG, Zentrum für Ausbildung im</owner>
-<address>Turbinenstrasse 5</address>
-<plz>8400</plz>
-<city>Winterthur</city>
-<telephone>Telefon +41 52 203 26 67</telephone>
-<opentime>-</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.4975813</longitude>
-<latitude>8.7181308</latitude>
 </mensa>
 <mensa>
 <name>Mensa</name>
@@ -619,20 +467,6 @@ Samstag 08.30 - 13.30 UhrCafeteria Montag bis Freitag 07.00 - 16.00 Uhr</opentim
 <latitude>7.4342441</latitude>
 </mensa>
 <mensa>
-<name>Mensa Gymnasium Bäumlihof</name>
-<owner>Gymnasium Bäumlihof, Basel</owner>
-<address>Zu den drei Linden 80</address>
-<plz>4058</plz>
-<city>Basel</city>
-<telephone>Telefon +41 61 601 34 70</telephone>
-<opentime>Montag bis Freitag
-08.15 - 14.15 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.5678300</longitude>
-<latitude>7.6262858</latitude>
-</mensa>
-<mensa>
 <name>Mensa Gymnasium Münchenstein</name>
 <owner>Gymnasium Münchenstein</owner>
 <address>Baselstrasse 33</address>
@@ -693,22 +527,6 @@ Freitag
 <latitude>8.5236794</latitude>
 </mensa>
 <mensa>
-<name>Mensa KV Zürich</name>
-<owner>KV Zürich Business School</owner>
-<address>Limmatstrasse 310</address>
-<plz>8005</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 444 65 91</telephone>
-<opentime>Montag bis Donnerstag
-6.45 - 19.30 Uhr Freitag
-06.45 - 16.30 Uhr Samstag
-06.45 - 11.45 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.3902786</longitude>
-<latitude>8.5236992</latitude>
-</mensa>
-<mensa>
 <name>Mensa Neue Kantonsschule Aarau</name>
 <owner>Neue Kantonsschule Aarau</owner>
 <address>Schanzmättelistrasse 32</address>
@@ -722,37 +540,6 @@ Freitag
 <subdomain>neuekanti</subdomain>
 <longitude>47.3865612</longitude>
 <latitude>8.0445230</latitude>
-</mensa>
-<mensa>
-<name>Mensa Polyterrasse</name>
-<owner>ETH Zürich</owner>
-<address></address>
-<plz>8092</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 632 62 00</telephone>
-<opentime>Montag bis Freitag Mensa 11.15 - 13.30 Uhr und 17.30 - 19.30 Uhr
-Cafeteria 06.45 - 19.45 Uhr
-Kiosk 09.10 - 15.00 Uhr
-Kaffewagen 11.30 - 13.30 Uhr
-CafeBar 07.00 - 19.00 Uhr Samstag CafeBar 08.00 - 14.00 Uhr</opentime>
-<website>http://www.gastro.ethz.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.4006545</longitude>
-<latitude>8.4990385</latitude>
-</mensa>
-<mensa>
-<name>Mensa TSM Therapie und Schulzentrum Münchenstein</name>
-<owner>Schulzentrum Münchenstein</owner>
-<address>Baselstrasse 43</address>
-<plz>4142</plz>
-<city>Münchenstein</city>
-<telephone>Telefon +41 61 417 95 81</telephone>
-<opentime>Montag bis Freitag Cafeteria 08.00 - 16.00 Uhr
-Esszimmer 11.50 - 12.30 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.5251327</longitude>
-<latitude>7.6172659</latitude>
 </mensa>
 <mensa>
 <name>Mensa Uni Basel Bernoullistrasse</name>
@@ -840,20 +627,6 @@ Automaten 24 Stunden Betrieb</opentime>
 <latitude>8.6434470</latitude>
 </mensa>
 <mensa>
-<name>Personalrestaurant Bucher-Guyer</name>
-<owner>Bucher-Guyer AG</owner>
-<address>Murzlenstrasse 80</address>
-<plz>8166</plz>
-<city>Niederweningen</city>
-<telephone>Telefon +41 44 857 22 47</telephone>
-<opentime>Montag bis Freitag Restaurant/Cafeteria 08.00 - 14.00 Uhr
-Kiosk 06.15 - 08.00 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.5108631</longitude>
-<latitude>8.3676227</latitude>
-</mensa>
-<mensa>
 <name>Personalrestaurant Bühler AG</name>
 <owner>Bühler AG</owner>
 <address>Bahnhofstrasse 114</address>
@@ -882,35 +655,6 @@ Kaffeekiosk 07.30 - 13.30 Uhr</opentime>
 <latitude>7.3963341</latitude>
 </mensa>
 <mensa>
-<name>Personalrestaurant Garaventa AG</name>
-<owner>Garaventa AG</owner>
-<address>Tennmattstrasse 15</address>
-<plz>6410</plz>
-<city>Goldau</city>
-<telephone>Telefon +41 41 859 12 54</telephone>
-<opentime>Montag bis Freitag
-08.30 - 09.30 Uhr und 11.00 -14.00 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.0542814</longitude>
-<latitude>8.5498683</latitude>
-</mensa>
-<mensa>
-<name>Personalrestaurant Höckli</name>
-<owner>Feller AG</owner>
-<address>Bergstrasse 70</address>
-<plz>8810</plz>
-<city>Horgen</city>
-<telephone>Telefon +41 44 728 77 81</telephone>
-<opentime>Montag bis Donnerstag
-06.10 - 15.30 Uhr Freitag
-06.10 - 15.00 Uhr (Sonderanlässe nach Vereinbarung)</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.2511035</longitude>
-<latitude>8.5967715</latitude>
-</mensa>
-<mensa>
 <name>Personalrestaurant Insieme</name>
 <owner>Swissprinters AG</owner>
 <address>Brühlstrasse 5</address>
@@ -937,20 +681,6 @@ Kaffeekiosk 07.30 - 13.30 Uhr</opentime>
 <subdomain>keymile</subdomain>
 <longitude>46.9345756</longitude>
 <latitude>7.4243713</latitude>
-</mensa>
-<mensa>
-<name>Personalrestaurant MÄX</name>
-<owner>Antalis AG</owner>
-<address>Industriestrasse 20</address>
-<plz>5242</plz>
-<city>Lupfig</city>
-<telephone>Telefon +41 56 464 56 60</telephone>
-<opentime>Montag bis Freitag
-07.00 - 15.30 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.4476949</longitude>
-<latitude>8.2122588</latitude>
 </mensa>
 <mensa>
 <name>Personalrestaurant Optik-Hus</name>
@@ -1025,19 +755,6 @@ Montag bis Freitag
 <latitude>8.2777039</latitude>
 </mensa>
 <mensa>
-<name>Personalrestaurant Siemens</name>
-<owner>Siemens Schweiz AG</owner>
-<address>Industriestrasse 22</address>
-<plz>8604</plz>
-<city>Volketswil</city>
-<telephone>Telefon +41 44 997 10 25</telephone>
-<opentime>Montag bis Freitag 06.00 - 15.00 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.3799138</longitude>
-<latitude>8.6777467</latitude>
-</mensa>
-<mensa>
 <name>Personalrestaurant SIESTA</name>
 <owner>Marti Generalunternehmungen AG</owner>
 <address>Fabrikstrasse 10</address>
@@ -1093,76 +810,6 @@ Montag bis Freitag
 <subdomain>zanggenrueti</subdomain>
 <longitude>47.1863364</longitude>
 <latitude>8.4946763</latitude>
-</mensa>
-<mensa>
-<name>Physikrestaurant «HPR»</name>
-<owner>ETH Zürich, Science City</owner>
-<address>Schafmattstrasse 36</address>
-<plz>8093</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 633 72 20</telephone>
-<opentime>Montag bis Freitag
-07.30 - 19.30 Uhr</opentime>
-<website>http://www.gastro.ethz.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.4074117</longitude>
-<latitude>8.5094997</latitude>
-</mensa>
-<mensa>
-<name>Polysnack</name>
-<owner>ETH Zürich</owner>
-<address>Rämistrasse 101</address>
-<plz>8092</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 632 62 52</telephone>
-<opentime>Montag bis Freitag
-07.30 - 17.00 Uhr  Samstag 11.30 - 13.00 Uhr</opentime>
-<website>http://www.gastro.ethz.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.3764203</longitude>
-<latitude>8.5479948</latitude>
-</mensa>
-<mensa>
-<name>Post Cafeteria daylis</name>
-<owner>Die Schweizerische Post</owner>
-<address>Oberstrasse 153</address>
-<plz>9020</plz>
-<city>St.</city>
-<telephone>Telefon +41 71 279 30 60</telephone>
-<opentime>Montag bis Freitag
-08.00 - 16.00 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.4137759</longitude>
-<latitude>9.3559498</latitude>
-</mensa>
-<mensa>
-<name>Post Cafeteria Hauptpost</name>
-<owner>Die Schweizerische Post</owner>
-<address>Bahnhofstrasse 67</address>
-<plz>5001</plz>
-<city>Aarau</city>
-<telephone>Telefon +41 62 822 72 67</telephone>
-<opentime>Montag bis Freitag
-07.00 - 10.30 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.3921597</longitude>
-<latitude>8.0506265</latitude>
-</mensa>
-<mensa>
-<name>Post Cafeteria Westpark</name>
-<owner>Die Schweizerische Post</owner>
-<address>Pfingstweidstrasse 60b</address>
-<plz>8005</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 43 495 08 63</telephone>
-<opentime>Montag bis Freitag
-08.30 - 11.30 Uhr und 14.00 - 16.30 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.3905138</longitude>
-<latitude>8.5149088</latitude>
 </mensa>
 <mensa>
 <name>Post Restaurant daylis Bern-Schönburg</name>
@@ -1293,20 +940,6 @@ PR 11.30 - 13.00 / Cafebar 07.00 - 19.00 Uhr</opentime>
 <latitude>8.6131152</latitude>
 </mensa>
 <mensa>
-<name>Restaurant Cheminsula «HCI»</name>
-<owner>ETH Zürich, Science City</owner>
-<address></address>
-<plz>8093</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 633 72 45</telephone>
-<opentime>Montag bis Freitag
-11.30 - 14.30 Uhr</opentime>
-<website>http://www.gastro.ethz.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.4006545</longitude>
-<latitude>8.4990385</latitude>
-</mensa>
-<mensa>
 <name>Restaurant daylis</name>
 <owner>Strassenverkehrsamt des Kantons Zürich</owner>
 <address>Uetlibergstrasse 301</address>
@@ -1318,20 +951,6 @@ PR 11.30 - 13.00 / Cafebar 07.00 - 19.00 Uhr</opentime>
 <subdomain>strassenverkehrsamt</subdomain>
 <longitude>47.3534369</longitude>
 <latitude>8.5128765</latitude>
-</mensa>
-<mensa>
-<name>Restaurant daylis BFS Winterthur</name>
-<owner>Berufsfachschule BFS Winterthur</owner>
-<address>Tösstalstrasse 26</address>
-<plz>8400</plz>
-<city>Winterthur</city>
-<telephone>Telefon +41 52 213 34 60</telephone>
-<opentime>Montag bis Freitag
-07.15 - 16.00 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.4966567</longitude>
-<latitude>8.7341421</latitude>
 </mensa>
 <mensa>
 <name>Restaurant daylis ERZ Bern</name>
@@ -1347,20 +966,6 @@ PR 11.30 - 13.00 / Cafebar 07.00 - 19.00 Uhr</opentime>
 <subdomain>erziehungsdirektion</subdomain>
 <longitude>46.9405224</longitude>
 <latitude>7.4406683</latitude>
-</mensa>
-<mensa>
-<name>Restaurant daylis Gewerbliche Berufsschule Chur</name>
-<owner>Gewerbliche Berufsschule</owner>
-<address>Scalettastrasse 33</address>
-<plz>7000</plz>
-<city>Chur</city>
-<telephone>Telefon +41 81 284 26 53</telephone>
-<opentime>Montag bis Freitag
-07.00 - 16.30 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>46.8559121</longitude>
-<latitude>9.5246408</latitude>
 </mensa>
 <mensa>
 <name>Restaurant Druckzentrum Bubenberg</name>
@@ -1479,20 +1084,6 @@ Coffeebar 07.00 - 14.30 Uhr</opentime>
 <latitude>8.5183202</latitude>
 </mensa>
 <mensa>
-<name>Restaurant Oasis</name>
-<owner>D4 Business Center Luzern</owner>
-<address>D4 Platz 4</address>
-<plz>6039</plz>
-<city>Root-D4</city>
-<telephone>Telefon +41 41 455 22 88</telephone>
-<opentime>Montag bis Freitag
-07.00 - 19.00 Uhr</opentime>
-<website>http://www.d4center.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.1035954</longitude>
-<latitude>8.3741447</latitude>
-</mensa>
-<mensa>
 <name>Restaurant Reiterstrasse</name>
 <owner>Kantonale Verwaltung</owner>
 <address>Reiterstrasse 11</address>
@@ -1575,20 +1166,6 @@ Coffeebar 07.00 - 14.30 Uhr</opentime>
 <subdomain>visavis</subdomain>
 <longitude>47.2167599</longitude>
 <latitude>7.7821305</latitude>
-</mensa>
-<mensa>
-<name>Restaurants Ascom</name>
-<owner>Ascom AG</owner>
-<address>Belpstrasse 39</address>
-<plz>3007</plz>
-<city>Bern</city>
-<telephone>Telefon +41 31 398 07 45</telephone>
-<opentime>Montag bis Freitag Restaurant Mattenhofkeller 11.30 - 13.30 Uhr
-Café Mattenhof 08.30 - 15.30 Uhr</opentime>
-<website>http://www.restaurants-ascom.ch</website>
-<subdomain>www</subdomain>
-<longitude>46.9434366</longitude>
-<latitude>7.4323938</latitude>
 </mensa>
 <mensa>
 <name>Ristorante UBS Suglio</name>
@@ -1776,19 +1353,6 @@ durchgehend geöffnet</opentime>
 <latitude>7.4466338</latitude>
 </mensa>
 <mensa>
-<name>SPIGA Ristorante Westside</name>
-<owner>SV (Schweiz) AG</owner>
-<address>Gilberte de Courgenay-Platz 4</address>
-<plz>3027</plz>
-<city>Bern-Brünnen</city>
-<telephone>Telefon +41 31 991 99 77</telephone>
-<opentime>Montag bis Donnerstag 09.00 - 23.00 UhrFreitag 09.00 - 00.30 UhrSamstag 08.00 - 00.30 UhrSonntag 10.00 - 23.00 Uhr</opentime>
-<website>http://www.spiga-ristorante.ch</website>
-<subdomain>www</subdomain>
-<longitude>46.9444617</longitude>
-<latitude>7.3742209</latitude>
-</mensa>
-<mensa>
 <name>TBZ Restaurant &quot;TECHNOLINO&quot;</name>
 <owner>Mittelschul- und Berufsbildungsamt des Kantons ZH</owner>
 <address>Ausstellungsstrasse 70</address>
@@ -1843,46 +1407,4 @@ Bar &amp; Lounge 7.30 - 17.00 Uhr</opentime>
 <subdomain>ubs-flur</subdomain>
 <longitude>47.3829373</longitude>
 <latitude>8.4927578</latitude>
-</mensa>
-<mensa>
-<name>wagamama sihlporte</name>
-<owner>SV (Schweiz) AG</owner>
-<address>Talstrasse 83</address>
-<plz>8001</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 43 888 64 54</telephone>
-<opentime>Sonntag bis Mittwoch
-11.30 - 22.00 Uhr Donnerstag bis Samstag
-11.30 - 23.00 Uhr</opentime>
-<website>http://www.wagamama.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.3720925</longitude>
-<latitude>8.5339750</latitude>
-</mensa>
-<mensa>
-<name>wipfrestaurant</name>
-<owner>Wipf AG</owner>
-<address>Industriestrasse 29</address>
-<plz>8604</plz>
-<city>Volketswil</city>
-<telephone>Telefon +41 44 945 32 31</telephone>
-<opentime>Montag bis Freitag
-07.00 - 14.30 Uhr</opentime>
-<website></website>
-<subdomain></subdomain>
-<longitude>47.3803721</longitude>
-<latitude>8.6803001</latitude>
-</mensa>
-<mensa>
-<name>Zunfthaus zur Schmiden</name>
-<owner>Dine-Shine</owner>
-<address>Marktgasse 20</address>
-<plz>8001</plz>
-<city>Zürich</city>
-<telephone>Telefon +41 44 250 58 48</telephone>
-<opentime>nach Reservation</opentime>
-<website>http://www.zunfthausschmiden.ch</website>
-<subdomain>www</subdomain>
-<longitude>47.3722048</longitude>
-<latitude>8.5439082</latitude>
 </mensa></root>

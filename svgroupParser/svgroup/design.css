@@ -1,0 +1,4 @@
+* {       margin:0;       padding:0;     }
+     body {       color:#333;       font-family: 'Prociono', 'Helvetica Neue', Helvetica, Arial, sans-serif;     }
+     #main {       width:500px;       margin:10px auto;     }
+     h2 {       margin-top:1.5em;       margin-bottom:0.5em;     }

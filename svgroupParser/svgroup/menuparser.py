@@ -39,7 +39,7 @@ class menuparser(object):
         elif self.form==2:
             return '{\n\t\"day\":{"date":"'+ self.date +'",\n\t\t\"menu\":[\n\t\t\t'
         else:
-            return '<!DOCTYPE html>\n<html>\n   <head>\n     <title>' +self.subdomain+' Mensa Menuplan</title>\n     <link rel="icon" type="image/png" href="./favicon.png">\n    <link rel="apple-touch-icon" href="./ifavicon.png">\n     <link href=\'http://fonts.googleapis.com/css?family=Prociono\' rel=\'stylesheet\' type=\'text/css\'>\n     <style type="text/css">\n * {       margin:0;       padding:0;     }\n     body {       color:#333;       font-family: \'Prociono\', \'Helvetica Neue\', Helvetica, Arial, sans-serif;     }\n     #main {       width:500px;       margin:10px auto;     }\n     h2 {       margin-top:1.5em;       margin-bottom:0.5em;     }\n     </style>\n   </head>\n   <body>\n     <div id="main"><h1>' + self.date + '</h1>'
+            return '<!DOCTYPE html>\n<html>\n   <head>\n     <title>' +self.subdomain+' Mensa Menuplan</title>\n     <link rel="icon" type="image/png" href="./favicon.png">\n    <link rel="apple-touch-icon" href="./ifavicon.png">\n     <link href=\'http://fonts.googleapis.com/css?family=Prociono\' rel=\'stylesheet\' type=\'text/css\'>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"design.css\" />\n   </head>\n   <body>\n     <div id="main"><h1>' + self.date + '</h1>'
     def printFoot(self):
         if self.form==1:
             return '</day>'

@@ -10,6 +10,7 @@ class mensaparser(object):
         self.data=''
         self.buffer=''
         self.form=form
+        self.isSvgroup='True'
     def printAll(self):
         out=''
         for entry in self.mensalist:
@@ -51,6 +52,7 @@ class mensaparser(object):
         for item in bufferList:
             cntr=0
             if re.match('createMarker\(new.*\)', item):
+                self.isSvgroup=False
                 mensaBuffer = mensa(self.form)
                 for ext in re.split('<b>|<br>', item):
                     ext=ext.split('</b>')[0]
@@ -66,6 +68,8 @@ class mensaparser(object):
                         mensaBuffer.setowner(ext.strip())
                     elif re.match('<a href=\".*\"', ext):
                         link = ext.split('<a href=\"')[-1].split('\"')[0]
+                        if re.match('.*sv-group\.ch.*', link):
+                            self.isSvgroup=True
                         mensaBuffer.setwebsite(link)
                         mensaBuffer.setsubdomain(link.split('http://')[-1].split('.')[0])
                     elif re.match('\d\d\d\d\s\S+', ext):
@@ -82,4 +86,5 @@ class mensaparser(object):
                             mensaBuffer.opentime+=ext.strip() 
                     
                     cntr+=1
-                self.mensalist.append(mensaBuffer)
+                if self.isSvgroup:
+                    self.mensalist.append(mensaBuffer)

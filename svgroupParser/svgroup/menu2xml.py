@@ -44,5 +44,5 @@ if weekday < 8 and weekday > -1:
         parse.writeInDB()
         print parse.printAll().encode("utf-8")
 else:
-    print 'ERROR 001: Fucking idiot. how many workdays does a week have? Right... 5'
+    print 'ERROR 001: Fucking idiot. how many days does a week have? Right... 7'
     
