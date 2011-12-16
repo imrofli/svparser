@@ -29,6 +29,7 @@ else:
     weekDiff = 0
     subdomain = 'hochschule-rapperswil'
     
+    
 if weekday < 8 and weekday > -1:
     h1 = httplib.HTTPConnection(subdomain + '.sv-group.ch')
     h1.request('GET', '/de/menuplan.html?addGP[weekday]=' + str(weekday) + '&addGP[weekmod]=' + str(weekDiff))
@@ -40,6 +41,8 @@ if weekday < 8 and weekday > -1:
         allheaders = res.getheaders()
         parse = menuparser(form, subdomain)
         parse.parse(data)
+        parse.writeInDB()
         print parse.printAll().encode("utf-8")
 else:
     print 'ERROR 001: Fucking idiot. how many workdays does a week have? Right... 5'
+    

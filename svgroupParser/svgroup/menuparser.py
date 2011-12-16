@@ -3,6 +3,7 @@
 from BeautifulSoup import BeautifulSoup
 from menu import menu
 import re
+import sqlite3
 
 class menuparser(object):
     def __init__(self, form, subdomain):
@@ -21,6 +22,17 @@ class menuparser(object):
             self.save=self.save[:-1]
         self.save+=self.printFoot()
         return self.save
+    def writeInDB(self):
+        conn = sqlite3.connect('data.SQLITE3')
+        c = conn.cursor()
+        c.execute("""select * from mensa2menu where subdomain=? and date=?""", [self.subdomain, self.date])
+        if not (self.date == 'Geschlossen') and len(c.fetchall())==0 :
+            c.execute("""insert into mensa2menu values (?, ?)""", [self.subdomain, self.date])
+            for entry in self.menuList:
+                c.execute("""insert into menu values (null, ?,?,?,?,?,?, ?)""", [entry.name , entry.starter,entry.maindish, entry.priceInt, entry.priceExt, self.date, self.subdomain])
+
+            conn.commit()
+            c.close()
     def printHead(self):
         if self.form==1:
             return '<?xml version="1.0" encoding="UTF-8" ?>\n<day>\n<date>' + self.date + '</date>'

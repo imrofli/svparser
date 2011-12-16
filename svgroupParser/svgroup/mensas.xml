@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<mensa>
+<name>Bistro Eulerhof</name>
+<owner>Basler Bildungsgruppe</owner>
+<address>Eulerstrasse 55</address>
+<plz>4051</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 560 30 35</telephone>
+<opentime>Montag bis Freitag 08.00 - 14.30 Uhr</opentime>
+<website>http://eulerhof.sv-group.ch</website>
+<subdomain>eulerhof</subdomain>
+<longitude>47.5561781</longitude>
+<latitude>7.5786680</latitude>
+</mensa>
+<mensa>
+<name>Bistro Gymnasium Köniz-Lerbermatt</name>
+<owner>Gymnasium Köniz-Lerbermatt</owner>
+<address>Kirchstrasse 72</address>
+<plz>3098</plz>
+<city>Köniz</city>
+<telephone>Telefon +41 31 970 60 92</telephone>
+<opentime>Montag bis Freitag
+07.30 - 17.00 Uhr</opentime>
+<website>http://koeniz-lerbermatt.sv-group.ch</website>
+<subdomain>koeniz-lerbermatt</subdomain>
+<longitude>46.9299710</longitude>
+<latitude>7.4352056</latitude>
+</mensa>
+<mensa>
+<name>Bistro medi</name>
+<owner>Zentrum für medizinische Bildung</owner>
+<address>Max-Daetwyler-Platz 2</address>
+<plz>3014</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 331 30 52</telephone>
+<opentime>Montag bis Freitag
+07.30 - 16.30 Uhr</opentime>
+<website>http://bistromedi.sv-group.ch</website>
+<subdomain>bistromedi</subdomain>
+<longitude>46.9656899</longitude>
+<latitude>7.4552013</latitude>
+</mensa>
+<mensa>
+<name>Café Forum</name>
+<owner>Würth AG</owner>
+<address>Dornwydenweg 11</address>
+<plz>4144</plz>
+<city>Arlesheim</city>
+<telephone>Telefon +41 61 705 96 10</telephone>
+<opentime>Montag bis Freitag
+07.00 - 17.00 Uhr  Samstag und Sonntag
+11.00 bis 17.00 Uhr</opentime>
+<website>http://cafe-forum.sv-group.ch</website>
+<subdomain>cafe-forum</subdomain>
+<longitude>47.4969700</longitude>
+<latitude>7.6071653</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria Aabächli</name>
+<owner>Kant Verwaltungszentrum</owner>
+<address>Aabachstrasse 5</address>
+<plz>6300</plz>
+<city>Zug</city>
+<telephone>Telefon +41 41 728 53 23/5</telephone>
+<opentime>Montag bis Freitag
+06.00 - 17.00 Uhr</opentime>
+<website>http://cafeteria-aabaechli.sv-group.ch</website>
+<subdomain>cafeteria-aabaechli</subdomain>
+<longitude>47.1744585</longitude>
+<latitude>8.5106551</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria BBZ Pflege</name>
+<owner></owner>
+<address>Freiburgstrasse 133</address>
+<plz>3008</plz>
+<city>Bern</city>
+<telephone>Telefon -</telephone>
+<opentime>-</opentime>
+<website>http://bzpflege.sv-group.ch</website>
+<subdomain>bzpflege</subdomain>
+<longitude>46.9431630</longitude>
+<latitude>7.4090675</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria Berufsbildungszentrum BBZ</name>
+<owner>Berufsbildungszentrum BBZ</owner>
+<address>Aarauerstrasse 30</address>
+<plz>4601</plz>
+<city>Olten</city>
+<telephone>Telefon +41 62 311 82 08</telephone>
+<opentime>Montag bis Freitag 06.30 - 16.00 UhrSamstag 08.10. - 13.00 Uhr</opentime>
+<website>http://bbzolten.sv-group.ch</website>
+<subdomain>bbzolten</subdomain>
+<longitude>47.3478307</longitude>
+<latitude>7.9093588</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria BFH Wirtschaft</name>
+<owner></owner>
+<address>Morgartenstrasse 2c</address>
+<plz>3000</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 331 82 71</telephone>
+<opentime>Montag bis Freitag 08.00 - 16.00 UhrSamstag 08.00 - 12.00 Uhr</opentime>
+<website>http://bfhbern.sv-group.ch</website>
+<subdomain>bfhbern</subdomain>
+<longitude>46.9634758</longitude>
+<latitude>7.4626243</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria Biozentrum / Pharmazentrum</name>
+<owner>Universität Basel</owner>
+<address>Klingelbergstrasse 70</address>
+<plz>4056</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 263 07 15</telephone>
+<opentime>Montag bis Donnerstag
+08.00 - 16.30 Uhr  Freitag
+08.00 - 16.00 Uhr</opentime>
+<website>http://bio-pharmazentrum.sv-group.ch</website>
+<subdomain>bio-pharmazentrum</subdomain>
+<longitude>47.5639202</longitude>
+<latitude>7.5799639</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria Essring</name>
+<owner>HTW Hochschule für Technik und Wirtschaft</owner>
+<address>Pulvermühlestrasse 57</address>
+<plz>7004</plz>
+<city>Chur</city>
+<telephone>Telefon +41 81 286 24 38</telephone>
+<opentime>Montag bis Freitag
+08.00 - 19.00 Uhr</opentime>
+<website>http://htw-chur.sv-group.ch</website>
+<subdomain>htw-chur</subdomain>
+<longitude>46.8529094</longitude>
+<latitude>9.5126143</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria FMS</name>
+<owner>Fachmaturitätsschule Basel-Stadt, Basel</owner>
+<address>Engelgasse 120</address>
+<plz>4052</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 311 09 06</telephone>
+<opentime>Montag bis Freitag
+09.00 - 14.00 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.5471046</longitude>
+<latitude>7.6051451</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria Gourmetro</name>
+<owner>MIAG C.V. Diemen NL</owner>
+<address>Neuhofstrasse 4</address>
+<plz>6341</plz>
+<city>Baar</city>
+<telephone>Telefon +41 41 768 72 66</telephone>
+<opentime>Montag bis Freitag
+07.00 - 08.30 Uhr und 11.30 - 13.30 Uhr</opentime>
+<website>http://gourmetro.sv-group.ch</website>
+<subdomain>gourmetro</subdomain>
+<longitude>47.1901939</longitude>
+<latitude>8.5133194</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria la strada</name>
+<owner>Universität Basel</owner>
+<address>Peter Merian Weg 8</address>
+<plz>4002</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 267 25 06</telephone>
+<opentime>Montag bis Freitag
+08.00 - 16.00 Uhr</opentime>
+<website>http://lastrada.sv-group.ch</website>
+<subdomain>lastrada</subdomain>
+<longitude>47.5450936</longitude>
+<latitude>7.5960797</latitude>
+</mensa>
+<mensa>
+<name>Cafeteria WG Basel</name>
+<owner>Wirtschaftsgymnasium</owner>
+<address>Andreas Heusler-Strasse 41</address>
+<plz>4052</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 311 21 02</telephone>
+<opentime>Montag bis Freitag
+08.30 - 14.00 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.5469272</longitude>
+<latitude>7.6034309</latitude>
+</mensa>
+<mensa>
+<name>Cantine de Drognens</name>
+<owner>armasuisse Immobilien</owner>
+<address>Place d&#039;Armes de Drognens</address>
+<plz>1680</plz>
+<city>Romont</city>
+<telephone>Telefon +41 26 652 79 60</telephone>
+<opentime>selon l&#039;occupation</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>46.695455</longitude>
+<latitude>6.916875</latitude>
+</mensa>
+<mensa>
+<name>Clausiusbar</name>
+<owner>ETH Zürich</owner>
+<address>Tannenstrasse 3</address>
+<plz>8092</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 632 62 70</telephone>
+<opentime>Montag bis Freitag Mensa 08.00 - 14.00 Uhr
+Cafeteria 11.30 - 16.00 Uhr</opentime>
+<website>http://www.gastro.ethz.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.3773389</longitude>
+<latitude>8.5469413</latitude>
+</mensa>
+<mensa>
+<name>Culinarium Grüze</name>
+<owner>WINCASA</owner>
+<address>Grüzefeldstrasse 41</address>
+<plz>8404</plz>
+<city>Winterthur</city>
+<telephone>Telefon +41 52 233 83 80</telephone>
+<opentime>Montag bis Freitag
+08.00 - 15.00 Uhr</opentime>
+<website>http://grueze.sv-group.ch</website>
+<subdomain>grueze</subdomain>
+<longitude>47.4937021</longitude>
+<latitude>8.7552390</latitude>
+</mensa>
+<mensa>
+<name>Culinarium Murifeld</name>
+<owner>Credit Suisse AG</owner>
+<address>Weltpoststrasse 5</address>
+<plz>3015</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 358 79 29</telephone>
+<opentime>Montag bis Freitag Restaurant
+Cafeteria 07.00 - 15.30 Uhr (11.30 - 13.00 Uhr bedient)
+Gästerestaurant 11.00 - 14.00 Uhr (oder nach Bedarf)</opentime>
+<website>http://murifeld.sv-group.ch</website>
+<subdomain>murifeld</subdomain>
+<longitude>46.9389877</longitude>
+<latitude>7.4751166</latitude>
+</mensa>
+<mensa>
+<name>Culinarium SAP Biel</name>
+<owner>SAP (Schweiz) AG</owner>
+<address>Leugenestrasse 6</address>
+<plz>2500</plz>
+<city>Biel</city>
+<telephone>Telefon +41 58 871 71 21</telephone>
+<opentime>Montag bis Freitag
+07.30 - 16.00 Uhr (Die SAP-Mitarbeiter können sich rund um die Uhr selbst bedienen)</opentime>
+<website>http://sap-biel.sv-group.ch</website>
+<subdomain>sap-biel</subdomain>
+<longitude>47.1636888</longitude>
+<latitude>7.2891914</latitude>
+</mensa>
+<mensa>
+<name>Culinarium SAP Regensdorf</name>
+<owner>SAP (Schweiz) AG</owner>
+<address>Althardstrasse 80</address>
+<plz>8105</plz>
+<city>Regensdorf</city>
+<telephone>Telefon +41 58 871 66 55</telephone>
+<opentime>Montag bis Freitag
+07.30 - 16.30 Uhr</opentime>
+<website>http://sap-regensdorf.sv-group.ch</website>
+<subdomain>sap-regensdorf</subdomain>
+<longitude>47.4397700</longitude>
+<latitude>8.4715434</latitude>
+</mensa>
+<mensa>
+<name>Culinarium St. Alban</name>
+<owner>Credit Suisse AG</owner>
+<address>St. Albangraben 1-3</address>
+<plz>4051</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 266 77 70</telephone>
+<opentime>Montag bis Freitag Restaurant 11.30 - 13.30 Uhr
+Cafeteria 07.30 - 16.00 Uhr</opentime>
+<website>http://st-alban.sv-group.ch</website>
+<subdomain>st-alban</subdomain>
+<longitude>47.5542268</longitude>
+<latitude>7.5926923</latitude>
+</mensa>
+<mensa>
+<name>Culinarium Suva Rösslimatt</name>
+<owner>Suva, Luzern</owner>
+<address>Rösslimattstrasse 39</address>
+<plz>6005</plz>
+<city>Luzern</city>
+<telephone>Telefon +41 41 419 51 36</telephone>
+<opentime>Montag bis Freitag
+08.00 - 16.00 Uhr</opentime>
+<website>http://suva-roesslimatt.sv-group.ch</website>
+<subdomain>suva-roesslimatt</subdomain>
+<longitude>47.0447577</longitude>
+<latitude>8.3145305</latitude>
+</mensa>
+<mensa>
+<name>Culinarium Zürich Ambassador-House</name>
+<owner>Zürich Schweiz</owner>
+<address></address>
+<plz>8085</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 628 65 25</telephone>
+<opentime>Montag bis Freitag Hauptbetrieb 11.30 - 13.30 Uhr
+Take Away 07.00 - 16.00 Uhr</opentime>
+<website>http://ambassador-leonardo.sv-group.ch</website>
+<subdomain>ambassador-leonardo</subdomain>
+<longitude>47.4006545</longitude>
+<latitude>8.4990385</latitude>
+</mensa>
+<mensa>
+<name>Dine&amp;Shine</name>
+<owner>SV (Schweiz) AG</owner>
+<address>Steinackerstrasse 43</address>
+<plz>8902</plz>
+<city>Urdorf</city>
+<telephone>Telefon +41 44 405 78 78</telephone>
+<opentime>-</opentime>
+<website>http://www2.dine-shine.ch</website>
+<subdomain>www2</subdomain>
+<longitude>47.3954274</longitude>
+<latitude>8.4228230</latitude>
+</mensa>
+<mensa>
+<name>ETH Alumni quattro Lounge «HIL»</name>
+<owner>ETH Zürich, Science City</owner>
+<address>Wolfgang-Pauli-Strasse 15</address>
+<plz>8093</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 633 72 12</telephone>
+<opentime>Montag bis Freitag 08.00 - 22.00 Uhr</opentime>
+<website>http://www.alumnilounge.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.4083349</longitude>
+<latitude>8.5069345</latitude>
+</mensa>
+<mensa>
+<name>ETH bQm KulturCafé &amp; Bar</name>
+<owner>ETH Zürich</owner>
+<address>Leonhardstrasse 34</address>
+<plz>8092</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 632 75 03</telephone>
+<opentime>Montag und Dienstag
+11.30 - 23.00 Uhr  Mittwoch und Donnerstag
+11.30 - 24.00 Uhr  Freitag
+11.30 - 21.00 Uhr</opentime>
+<website>http://www.bqm.li</website>
+<subdomain>www</subdomain>
+<longitude>47.3765521</longitude>
+<latitude>8.5464482</latitude>
+</mensa>
+<mensa>
+<name>ETH Chemierestaurant</name>
+<owner>ETH Zürich, Science City</owner>
+<address>Wolfgang-Pauli-Strasse 10</address>
+<plz>8093</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 633 72 67</telephone>
+<opentime>Montag bis Freitag
+11.15 - 14.00 Uhr (Juni - September geschlossen)</opentime>
+<website>http://www.gastro.ethz.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.4061810</longitude>
+<latitude>8.5090882</latitude>
+</mensa>
+<mensa>
+<name>Fernsehrestaurant Schweizer Fernsehen</name>
+<owner>Schweizer Fernsehen</owner>
+<address>Fernsehstrasse 1-4</address>
+<plz>8052</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 305 53 84</telephone>
+<opentime>Montag bis Sonntag
+07.00 - 20.30 Uhr</opentime>
+<website>http://sf.sv-group.ch</website>
+<subdomain>sf</subdomain>
+<longitude>47.4175607</longitude>
+<latitude>8.5604346</latitude>
+</mensa>
+<mensa>
+<name>G-ESSbar</name>
+<owner>ETH Zürich</owner>
+<address>Haldeneggsteig 4</address>
+<plz>8092</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 632 62 56</telephone>
+<opentime>Montag bis Freitag
+08.00 - 16.30 Uhr</opentime>
+<website>http://www.gastro.ethz.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.3803845</longitude>
+<latitude>8.5445149</latitude>
+</mensa>
+<mensa>
+<name>Gastronomiebereich Gymnasium Immensee</name>
+<owner>Gymnasium Immensee</owner>
+<address>Bethlehemweg 12</address>
+<plz>6405</plz>
+<city>Immensee</city>
+<telephone>Telefon +41 41 850 90 27</telephone>
+<opentime>Montag bis Freitag
+07.15 - 18.15 Uhr</opentime>
+<website>http://immensee.sv-group.ch</website>
+<subdomain>immensee</subdomain>
+<longitude>47.0928234</longitude>
+<latitude>8.4541341</latitude>
+</mensa>
+<mensa>
+<name>Gloriabar</name>
+<owner>ETH Zürich</owner>
+<address>Gloriastrasse 35</address>
+<plz>8092</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 632 62 48</telephone>
+<opentime>Montag bis Freitag
+07.30 - 16.30 Uhr</opentime>
+<website>http://www.gastro.ethz.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.3774255</longitude>
+<latitude>8.5529023</latitude>
+</mensa>
+<mensa>
+<name>Gourmetina</name>
+<owner>Elektro-Bildungs-Zentrum EBZ</owner>
+<address>Bungertenstrasse 47</address>
+<plz>8307</plz>
+<city>Effretikon</city>
+<telephone>Telefon +41 52 354 64 99</telephone>
+<opentime>Montag bis Freitag
+07.00 - 14.00 Uhr sowie je nach Kursbelegung</opentime>
+<website>http://ebz.sv-group.ch</website>
+<subdomain>ebz</subdomain>
+<longitude>47.4234773</longitude>
+<latitude>8.6920016</latitude>
+</mensa>
+<mensa>
+<name>Gymnasium Schadau</name>
+<owner>Bistro HMS Thun-Schadau</owner>
+<address>Seestrasse 66</address>
+<plz>3604</plz>
+<city>Thun</city>
+<telephone>Telefon +41 33 335 74 55</telephone>
+<opentime>Montag bis Freitag
+07.00 - 16.00 Uhr</opentime>
+<website>http://gymhmsschadau.sv-group.ch</website>
+<subdomain>gymhmsschadau</subdomain>
+<longitude>46.7440589</longitude>
+<latitude>7.6298178</latitude>
+</mensa>
+<mensa>
+<name>Kantonsschule Zürcher Unterland</name>
+<owner>Kantonsschule Zürcher Unterland</owner>
+<address>Kantonsschulstrasse 25</address>
+<plz>8180</plz>
+<city>Bülach</city>
+<telephone>Telefon +41 44 872 31 93</telephone>
+<opentime>Montag bis Freitag
+09.00 - 15.00 Uhr</opentime>
+<website>http://mensa-kzu.sv-group.ch</website>
+<subdomain>mensa-kzu</subdomain>
+<longitude>47.5175442</longitude>
+<latitude>8.5487094</latitude>
+</mensa>
+<mensa>
+<name>Mensa</name>
+<owner>ZAG, Zentrum für Ausbildung im</owner>
+<address>Turbinenstrasse 5</address>
+<plz>8400</plz>
+<city>Winterthur</city>
+<telephone>Telefon +41 52 203 26 67</telephone>
+<opentime>-</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.4975813</longitude>
+<latitude>8.7181308</latitude>
+</mensa>
+<mensa>
+<name>Mensa</name>
+<owner>Alte Kantonsschule Aarau</owner>
+<address>Bahnhofstrasse 101</address>
+<plz>5001</plz>
+<city>Aarau</city>
+<telephone>Telefon +41 62 825 11 25</telephone>
+<opentime>-</opentime>
+<website>http://altekanti.sv-group.ch</website>
+<subdomain>altekanti</subdomain>
+<longitude>47.3930936</longitude>
+<latitude>8.0542930</latitude>
+</mensa>
+<mensa>
+<name>Mensa &#039;Kantonsschule Rychenberg</name>
+<owner>Kantonsschule Rychenberg</owner>
+<address>Rychenbergstrasse 108</address>
+<plz>8400</plz>
+<city>Winterthur</city>
+<telephone>Telefon +41 52 244 04 80</telephone>
+<opentime>Montag bis Freitag
+08.15 - 16.05 Uhr</opentime>
+<website>http://rychenberg.sv-group.ch</website>
+<subdomain>rychenberg</subdomain>
+<longitude>47.5052102</longitude>
+<latitude>8.7358240</latitude>
+</mensa>
+<mensa>
+<name>Mensa BBZ Grenchen</name>
+<owner>Berufsbildungszentrum Grenchen</owner>
+<address>Sportstrasse 2</address>
+<plz>0900</plz>
+<city>-</city>
+<telephone>Telefon +41 32 654 27 45</telephone>
+<opentime></opentime>
+<website>http://bbzgrenchen.sv-group.ch</website>
+<subdomain>bbzgrenchen</subdomain>
+<longitude>47.1848915</longitude>
+<latitude>7.4014224</latitude>
+</mensa>
+<mensa>
+<name>Mensa Berner Fachhochschule</name>
+<owner>Berner Fachhochschule, Bau und Holz HSB</owner>
+<address>Solothurnstrasse 102</address>
+<plz>2500</plz>
+<city>Biel</city>
+<telephone>Telefon +41 32 344 02 32</telephone>
+<opentime>Montag bis Donnerstag
+06.30 - 18.00 Uhr  Freitag
+06.30 - 18.00 Uhr</opentime>
+<website>http://bfhbiel.sv-group.ch</website>
+<subdomain>bfhbiel</subdomain>
+<longitude>47.1586879</longitude>
+<latitude>7.2762161</latitude>
+</mensa>
+<mensa>
+<name>Mensa Berufsbildungszentrum Fricktal</name>
+<owner>Berufsbildungszentrum Fricktal</owner>
+<address>Engerfeldstrasse 18</address>
+<plz>4310</plz>
+<city>Rheinfelden</city>
+<telephone>Telefon +41 61 836 86 39</telephone>
+<opentime>Montag bis Freitag Mensa 08.30 - 14.00 Uhr und 15.00 - 15.30 Uhr (Warme Küche 11.00 - 13.00 Uhr) Kiosk 15.00 - 15.30 Uhr</opentime>
+<website>http://bzfricktal.sv-group.ch</website>
+<subdomain>bzfricktal</subdomain>
+<longitude>47.5478251</longitude>
+<latitude>7.8019610</latitude>
+</mensa>
+<mensa>
+<name>Mensa bzb Buchs</name>
+<owner>Weiterbildungszentrum Buchs bzb</owner>
+<address></address>
+<plz>9471</plz>
+<city>Buchs</city>
+<telephone>Telefon +41 81 755 52 83</telephone>
+<opentime>Mensa Montag bis Freitag
+07.00 - 10.30 Uhr
+11.30 - 13.30 Uhr und 14.30 - 16.15 Uhr Samstag 09.00 - 11.00 Uhr
+für Bankette nach BedarfMarktstand Lichthof Montag bis Donnerstag
+08.45 - 10.15 Uhr
+11.30 - 12.30 Uhr
+14.30 - 15.45 Uhr
+19.00 -</opentime>
+<website>http://mensa.bzbuchs.sv-group.ch</website>
+<subdomain>mensa</subdomain>
+<longitude>47.1656164</longitude>
+<latitude>9.4707938</latitude>
+</mensa>
+<mensa>
+<name>Mensa FHNW</name>
+<owner>Fachhochschule Nordwestschweiz</owner>
+<address>Gründenstrasse 40</address>
+<plz>4132</plz>
+<city>Muttenz</city>
+<telephone>Telefon +41 61 467 44 05</telephone>
+<opentime>Montag bis Freitag Mensa 11.25 - 12.50 Uhr
+Cafeteria 08.00 - 16.00 Uhr
+Kiosk 09.15 - 13.10 Uhr</opentime>
+<website>http://mensa-fhnw.sv-group.ch</website>
+<subdomain>mensa-fhnw</subdomain>
+<longitude>47.5339211</longitude>
+<latitude>7.6385571</latitude>
+</mensa>
+<mensa>
+<name>Mensa FHNW Brugg-Windisch</name>
+<owner>Fachhochschule Nordwestschweiz FHNW, Windisch</owner>
+<address>Klosterzelgstrasse 2</address>
+<plz>5210</plz>
+<city>Windisch</city>
+<telephone>Telefon +41 56 462 44 95</telephone>
+<opentime>Mensa Montag bis Freitag 11.15 - 13.30 Uhr
+Samstag 08.30 - 13.30 UhrCafeteria Montag bis Freitag 07.00 - 16.00 Uhr</opentime>
+<website>http://fhnw.sv-group.ch</website>
+<subdomain>fhnw</subdomain>
+<longitude>47.4795844</longitude>
+<latitude>8.2129745</latitude>
+</mensa>
+<mensa>
+<name>Mensa Freies Gymnasium Bern</name>
+<owner>Freies Gymnasium Bern</owner>
+<address>Beaulieustrasse 55</address>
+<plz>3012</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 301 09 94</telephone>
+<opentime>Montag bis Freitag
+07.45 - 15.05 Uhr</opentime>
+<website>http://freiesgymi.sv-group.ch</website>
+<subdomain>freiesgymi</subdomain>
+<longitude>46.9598080</longitude>
+<latitude>7.4342441</latitude>
+</mensa>
+<mensa>
+<name>Mensa Gymnasium Bäumlihof</name>
+<owner>Gymnasium Bäumlihof, Basel</owner>
+<address>Zu den drei Linden 80</address>
+<plz>4058</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 601 34 70</telephone>
+<opentime>Montag bis Freitag
+08.15 - 14.15 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.5678300</longitude>
+<latitude>7.6262858</latitude>
+</mensa>
+<mensa>
+<name>Mensa Gymnasium Münchenstein</name>
+<owner>Gymnasium Münchenstein</owner>
+<address>Baselstrasse 33</address>
+<plz>4142</plz>
+<city>Münchenstein</city>
+<telephone>Telefon +41 76 333 05 20</telephone>
+<opentime>Montag bis Freitag
+08.15 - 14.00 Uhr Samstag 08.15 - 10.30 Uhr</opentime>
+<website>http://mensamuenchenstein.sv-group.ch</website>
+<subdomain>mensamuenchenstein</subdomain>
+<longitude>47.5270489</longitude>
+<latitude>7.6169536</latitude>
+</mensa>
+<mensa>
+<name>Mensa HSR</name>
+<owner>Hochschule für Technik Rapperswil</owner>
+<address>Oberseestrasse 10</address>
+<plz>8640</plz>
+<city>Rapperswil</city>
+<telephone>Telefon +41 55 210 68 83</telephone>
+<opentime>Montag bis Freitag
+07.00 - 16.00 Uhr</opentime>
+<website>http://hochschule-rapperswil.sv-group.ch</website>
+<subdomain>hochschule-rapperswil</subdomain>
+<longitude>47.2230647</longitude>
+<latitude>8.8165114</latitude>
+</mensa>
+<mensa>
+<name>Mensa Kantonsschule Limmattal</name>
+<owner>Kantonsschule Limmattal</owner>
+<address>In der Luberzen 34</address>
+<plz>8902</plz>
+<city>Urdorf</city>
+<telephone>Telefon +41 44 735 31 90/91</telephone>
+<opentime>Montag
+Dienstag
+Donnerstag
+Freitag
+08.00 - 15.00 Uhr Mittwoch
+08.00 - 14.30 Uhr</opentime>
+<website>http://kanti-limmattal.sv-group.ch</website>
+<subdomain>kanti-limmattal</subdomain>
+<longitude>47.3929524</longitude>
+<latitude>8.4240489</latitude>
+</mensa>
+<mensa>
+<name>Mensa Kantonsschule Zug</name>
+<owner>Kantonsschule Zug</owner>
+<address>Lüssiweg 24</address>
+<plz>6302</plz>
+<city>Zug</city>
+<telephone>Telefon +41 41 728 12 74</telephone>
+<opentime>Montag bis Freitag
+07.00 - 10.20 Uhr und 11.30 - 16.00 Uhr</opentime>
+<website>http://mensa-ksz.sv-group.ch</website>
+<subdomain>mensa-ksz</subdomain>
+<longitude>47.1746333</longitude>
+<latitude>8.5236794</latitude>
+</mensa>
+<mensa>
+<name>Mensa KV Zürich</name>
+<owner>KV Zürich Business School</owner>
+<address>Limmatstrasse 310</address>
+<plz>8005</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 444 65 91</telephone>
+<opentime>Montag bis Donnerstag
+6.45 - 19.30 Uhr Freitag
+06.45 - 16.30 Uhr Samstag
+06.45 - 11.45 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.3902786</longitude>
+<latitude>8.5236992</latitude>
+</mensa>
+<mensa>
+<name>Mensa Neue Kantonsschule Aarau</name>
+<owner>Neue Kantonsschule Aarau</owner>
+<address>Schanzmättelistrasse 32</address>
+<plz>5000</plz>
+<city>Aarau</city>
+<telephone>Telefon +41 62 837 94 28</telephone>
+<opentime>Montag bis Freitag
+08.00 - 15.00 Uhr  Samstag
+10.00 - 13.00 Uhr</opentime>
+<website>http://neuekanti.sv-group.ch</website>
+<subdomain>neuekanti</subdomain>
+<longitude>47.3865612</longitude>
+<latitude>8.0445230</latitude>
+</mensa>
+<mensa>
+<name>Mensa Polyterrasse</name>
+<owner>ETH Zürich</owner>
+<address></address>
+<plz>8092</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 632 62 00</telephone>
+<opentime>Montag bis Freitag Mensa 11.15 - 13.30 Uhr und 17.30 - 19.30 Uhr
+Cafeteria 06.45 - 19.45 Uhr
+Kiosk 09.10 - 15.00 Uhr
+Kaffewagen 11.30 - 13.30 Uhr
+CafeBar 07.00 - 19.00 Uhr Samstag CafeBar 08.00 - 14.00 Uhr</opentime>
+<website>http://www.gastro.ethz.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.4006545</longitude>
+<latitude>8.4990385</latitude>
+</mensa>
+<mensa>
+<name>Mensa TSM Therapie und Schulzentrum Münchenstein</name>
+<owner>Schulzentrum Münchenstein</owner>
+<address>Baselstrasse 43</address>
+<plz>4142</plz>
+<city>Münchenstein</city>
+<telephone>Telefon +41 61 417 95 81</telephone>
+<opentime>Montag bis Freitag Cafeteria 08.00 - 16.00 Uhr
+Esszimmer 11.50 - 12.30 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.5251327</longitude>
+<latitude>7.6172659</latitude>
+</mensa>
+<mensa>
+<name>Mensa Uni Basel Bernoullistrasse</name>
+<owner>Universität Basel</owner>
+<address></address>
+<plz>4002</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 267 13 20</telephone>
+<opentime>Montag bis Freitag
+11.30 - 14.00 Uhr</opentime>
+<website>http://universitaet-basel.sv-group.ch</website>
+<subdomain>universitaet-basel</subdomain>
+<longitude>47.5601640</longitude>
+<latitude>7.5867894</latitude>
+</mensa>
+<mensa>
+<name>Mensa Uni Basel Institut für Physik</name>
+<owner>Universität Basel</owner>
+<address>St. Johanns-Ring 25</address>
+<plz>4056</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 321 88 60</telephone>
+<opentime>Montag bis Freitag
+09.15 - 14.00 Uhr</opentime>
+<website>http://institut-physik.sv-group.ch</website>
+<subdomain>institut-physik</subdomain>
+<longitude>47.5650187</longitude>
+<latitude>7.5788639</latitude>
+</mensa>
+<mensa>
+<name>Novartis-Personalrestaurant Klybeck</name>
+<owner>Novartis Pharma AG</owner>
+<address>Mauerstrasse 1</address>
+<plz>4002</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 696 55 26</telephone>
+<opentime>Montag bis Freitag Restaurant 11.30 - 14.00 Uhr
+Cafeteria 11.30 - 14.30 Uhr
+Kiosk 06.15 - 14.30 Uhr</opentime>
+<website>http://klybeck.sv-group.ch</website>
+<subdomain>klybeck</subdomain>
+<longitude>47.5736414</longitude>
+<latitude>7.5917397</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Aubrücke</name>
+<owner>ABB Schweiz AG</owner>
+<address></address>
+<plz>5300</plz>
+<city>Turgi</city>
+<telephone>Telefon +41 56 299 30 59</telephone>
+<opentime>Montag bis Freitag Restaurant 11.30 - 13.30 Uhr
+Cafeteria 7.30 - 16.00 Uhr</opentime>
+<website>http://aubruecke.sv-group.ch</website>
+<subdomain>aubruecke</subdomain>
+<longitude>47.492376</longitude>
+<latitude>8.253643</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Bosch, Werk Berigen</name>
+<owner>Werk Beringen</owner>
+<address>Industriestrasse 8</address>
+<plz>8222</plz>
+<city>Beringen</city>
+<telephone>Telefon +41 52 674 70 12</telephone>
+<opentime>Montag bis Freitag Restaurant 11.30 - 13.30 Uhr
+Cafeteria 07.00 - 14.00 Uhr
+Automaten 24 Stunden Betrieb</opentime>
+<website>http://sigpack-beringen.sv-group.ch</website>
+<subdomain>sigpack-beringen</subdomain>
+<longitude>47.6949225</longitude>
+<latitude>8.5855039</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Bruker BioSpin</name>
+<owner>Bruker BioSpin AG</owner>
+<address>Industriestrasse 26</address>
+<plz>8117</plz>
+<city>Fällanden</city>
+<telephone>Telefon +41 44 825 97 35</telephone>
+<opentime>Montag bis Freitag 07.00 - 14.30 Uhr</opentime>
+<website>http://bruker-biospin.sv-group.ch</website>
+<subdomain>bruker-biospin</subdomain>
+<longitude>47.3781987</longitude>
+<latitude>8.6434470</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Bucher-Guyer</name>
+<owner>Bucher-Guyer AG</owner>
+<address>Murzlenstrasse 80</address>
+<plz>8166</plz>
+<city>Niederweningen</city>
+<telephone>Telefon +41 44 857 22 47</telephone>
+<opentime>Montag bis Freitag Restaurant/Cafeteria 08.00 - 14.00 Uhr
+Kiosk 06.15 - 08.00 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.5108631</longitude>
+<latitude>8.3676227</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Bühler AG</name>
+<owner>Bühler AG</owner>
+<address>Bahnhofstrasse 114</address>
+<plz>9240</plz>
+<city>Uzwil</city>
+<telephone>Telefon +41 71 951 67 25</telephone>
+<opentime>Montag bis Freitag
+07.00 - 14.00 Uhr</opentime>
+<website>http://buehler.sv-group.ch</website>
+<subdomain>buehler</subdomain>
+<longitude>47.4409795</longitude>
+<latitude>9.1377844</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant ETA</name>
+<owner>ETA SA Manufacture Horlogère Suisse</owner>
+<address>Kapellstrasse 33</address>
+<plz>2540</plz>
+<city>Grenchen</city>
+<telephone>Telefon +41 32 652 16 10</telephone>
+<opentime>Montag bis Freitag Restaurant und Cafeteria 11.00 - 13.30 Uhr
+Kaffeekiosk 07.30 - 13.30 Uhr</opentime>
+<website>http://eta.sv-group.ch</website>
+<subdomain>eta</subdomain>
+<longitude>47.1957193</longitude>
+<latitude>7.3963341</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Garaventa AG</name>
+<owner>Garaventa AG</owner>
+<address>Tennmattstrasse 15</address>
+<plz>6410</plz>
+<city>Goldau</city>
+<telephone>Telefon +41 41 859 12 54</telephone>
+<opentime>Montag bis Freitag
+08.30 - 09.30 Uhr und 11.00 -14.00 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.0542814</longitude>
+<latitude>8.5498683</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Höckli</name>
+<owner>Feller AG</owner>
+<address>Bergstrasse 70</address>
+<plz>8810</plz>
+<city>Horgen</city>
+<telephone>Telefon +41 44 728 77 81</telephone>
+<opentime>Montag bis Donnerstag
+06.10 - 15.30 Uhr Freitag
+06.10 - 15.00 Uhr (Sonderanlässe nach Vereinbarung)</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.2511035</longitude>
+<latitude>8.5967715</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Insieme</name>
+<owner>Swissprinters AG</owner>
+<address>Brühlstrasse 5</address>
+<plz>4800</plz>
+<city>Zofingen</city>
+<telephone>Telefon +41 62 746 32 57</telephone>
+<opentime>Montag bis Freitag
+08.30 - 14.15 Uhr</opentime>
+<website>http://insieme.sv-group.ch</website>
+<subdomain>insieme</subdomain>
+<longitude>47.2869802</longitude>
+<latitude>7.9418706</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant KEYMILE AG</name>
+<owner>KEYMILE AG</owner>
+<address>Schwarzenburgstrasse 73</address>
+<plz>3097</plz>
+<city>Bern-Liebefeld</city>
+<telephone>Telefon +41 31 377 14 64</telephone>
+<opentime>Montag bis Freitag
+0830 - 14.00 Uhr</opentime>
+<website>http://keymile.sv-group.ch</website>
+<subdomain>keymile</subdomain>
+<longitude>46.9345756</longitude>
+<latitude>7.4243713</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant MÄX</name>
+<owner>Antalis AG</owner>
+<address>Industriestrasse 20</address>
+<plz>5242</plz>
+<city>Lupfig</city>
+<telephone>Telefon +41 56 464 56 60</telephone>
+<opentime>Montag bis Freitag
+07.00 - 15.30 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.4476949</longitude>
+<latitude>8.2122588</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Optik-Hus</name>
+<owner>Stiftung Optik-Hus</owner>
+<address>Dachertstrasse 1</address>
+<plz>9435</plz>
+<city>Heerbrugg</city>
+<telephone>Telefon +41 71 727 30 93</telephone>
+<opentime>Montag bis Freitag
+07.00 - 16.00 Uhr</opentime>
+<website>http://optik-hus.sv-group.ch</website>
+<subdomain>optik-hus</subdomain>
+<longitude>47.4071598</longitude>
+<latitude>9.6165471</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant renata</name>
+<owner>renata batteries</owner>
+<address>Kreuzenstrasse 30</address>
+<plz>4452</plz>
+<city>Itingen</city>
+<telephone>Telefon +41 61 469 62 31</telephone>
+<opentime>Montag bis Freitag
+11.00 - 13.30 Uhr</opentime>
+<website>http://renata.sv-group.ch</website>
+<subdomain>renata</subdomain>
+<longitude>47.4675582</longitude>
+<latitude>7.7798601</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant repos</name>
+<owner>Volg Konsumwaren AG</owner>
+<address></address>
+<plz>8401</plz>
+<city>Winterthur</city>
+<telephone>Telefon +41 58 433 54 91</telephone>
+<opentime>Montag bis Freitag
+07.00 - 13.15 Uhr</opentime>
+<website>http://volg.sv-group.ch</website>
+<subdomain>volg</subdomain>
+<longitude>47.4946582</longitude>
+<latitude>8.7494600</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant SCINTILLA</name>
+<owner>SCINTILLA AG</owner>
+<address></address>
+<plz>4501</plz>
+<city>Solothurn</city>
+<telephone>Telefon +41 32 685 63 22</telephone>
+<opentime>Montag bis Freitag
+11.30 - 13.00 Uhr</opentime>
+<website>http://scintilla.sv-group.ch</website>
+<subdomain>scintilla</subdomain>
+<longitude>47.2084696</longitude>
+<latitude>7.5373997</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Segelhof</name>
+<owner>ABB Schweiz AG</owner>
+<address></address>
+<plz>5405</plz>
+<city>Baden-Dättwil</city>
+<telephone>Telefon +41 56 486 82 22</telephone>
+<opentime>Forschungszentrum
+Segelhofstrasse 1
+Montag bis Freitag
+07.30 - 15.30 Uhr</opentime>
+<website>http://segelhof.sv-group.ch</website>
+<subdomain>segelhof</subdomain>
+<longitude>47.4584011</longitude>
+<latitude>8.2777039</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Siemens</name>
+<owner>Siemens Schweiz AG</owner>
+<address>Industriestrasse 22</address>
+<plz>8604</plz>
+<city>Volketswil</city>
+<telephone>Telefon +41 44 997 10 25</telephone>
+<opentime>Montag bis Freitag 06.00 - 15.00 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.3799138</longitude>
+<latitude>8.6777467</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant SIESTA</name>
+<owner>Marti Generalunternehmungen AG</owner>
+<address>Fabrikstrasse 10</address>
+<plz>4614</plz>
+<city>Hägendorf</city>
+<telephone>Telefon +41 62 216 89 16</telephone>
+<opentime>Montag bis Freitag
+08.00 - 16.00 Uhr</opentime>
+<website>http://siesta.sv-group.ch</website>
+<subdomain>siesta</subdomain>
+<longitude>47.3298210</longitude>
+<latitude>7.8384346</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Time-Out</name>
+<owner>Nestlé Suisse S.A.</owner>
+<address></address>
+<plz>9401</plz>
+<city>Rorschach</city>
+<telephone>Telefon +41 71 844 83 92</telephone>
+<opentime>Montag bis Freitag
+07.30 - 15.00 Uhr</opentime>
+<website>http://nestle-time-out.sv-group.ch</website>
+<subdomain>nestle-time-out</subdomain>
+<longitude>47.4779225</longitude>
+<latitude>9.4959851</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Vetropick</name>
+<owner>Müller+Krempel AG</owner>
+<address>Schützenmattstrasse 266</address>
+<plz>8180</plz>
+<city>Bülach</city>
+<telephone>Telefon +41 44 863 31 46</telephone>
+<opentime>Montag bis Freitag
+06.30 - 10.30 Uhr und 11.30 - 13.00 Uhr</opentime>
+<website>http://vetropick.sv-group.ch</website>
+<subdomain>vetropick</subdomain>
+<longitude>47.5290083</longitude>
+<latitude>8.5321227</latitude>
+</mensa>
+<mensa>
+<name>Personalrestaurant Zanggenrüti</name>
+<owner>Bossard AG</owner>
+<address>Steinhauserstrasse 70</address>
+<plz>6301</plz>
+<city>Zug</city>
+<telephone>Telefon +41 41 749 61 03</telephone>
+<opentime>Montag bis Freitag
+07.15 - 13.30 Uhr
+14.00 - 15.00 Uhr</opentime>
+<website>http://zanggenrueti.sv-group.ch</website>
+<subdomain>zanggenrueti</subdomain>
+<longitude>47.1863364</longitude>
+<latitude>8.4946763</latitude>
+</mensa>
+<mensa>
+<name>Physikrestaurant «HPR»</name>
+<owner>ETH Zürich, Science City</owner>
+<address>Schafmattstrasse 36</address>
+<plz>8093</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 633 72 20</telephone>
+<opentime>Montag bis Freitag
+07.30 - 19.30 Uhr</opentime>
+<website>http://www.gastro.ethz.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.4074117</longitude>
+<latitude>8.5094997</latitude>
+</mensa>
+<mensa>
+<name>Polysnack</name>
+<owner>ETH Zürich</owner>
+<address>Rämistrasse 101</address>
+<plz>8092</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 632 62 52</telephone>
+<opentime>Montag bis Freitag
+07.30 - 17.00 Uhr  Samstag 11.30 - 13.00 Uhr</opentime>
+<website>http://www.gastro.ethz.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.3764203</longitude>
+<latitude>8.5479948</latitude>
+</mensa>
+<mensa>
+<name>Post Cafeteria daylis</name>
+<owner>Die Schweizerische Post</owner>
+<address>Oberstrasse 153</address>
+<plz>9020</plz>
+<city>St.</city>
+<telephone>Telefon +41 71 279 30 60</telephone>
+<opentime>Montag bis Freitag
+08.00 - 16.00 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.4137759</longitude>
+<latitude>9.3559498</latitude>
+</mensa>
+<mensa>
+<name>Post Cafeteria Hauptpost</name>
+<owner>Die Schweizerische Post</owner>
+<address>Bahnhofstrasse 67</address>
+<plz>5001</plz>
+<city>Aarau</city>
+<telephone>Telefon +41 62 822 72 67</telephone>
+<opentime>Montag bis Freitag
+07.00 - 10.30 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.3921597</longitude>
+<latitude>8.0506265</latitude>
+</mensa>
+<mensa>
+<name>Post Cafeteria Westpark</name>
+<owner>Die Schweizerische Post</owner>
+<address>Pfingstweidstrasse 60b</address>
+<plz>8005</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 43 495 08 63</telephone>
+<opentime>Montag bis Freitag
+08.30 - 11.30 Uhr und 14.00 - 16.30 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.3905138</longitude>
+<latitude>8.5149088</latitude>
+</mensa>
+<mensa>
+<name>Post Restaurant daylis Bern-Schönburg</name>
+<owner>Die Schweizerische Post</owner>
+<address>Viktoriastrasse 21</address>
+<plz>3013</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 330 18 70</telephone>
+<opentime>Montag bis Freitag Cafeteria 07.00 - 16.00 Uhr
+Restaurant 08.45 - 10.00 und 11.15 - 13.30 Uhr</opentime>
+<website>http://schoenburg.sv-group.ch</website>
+<subdomain>schoenburg</subdomain>
+<longitude>46.9532942</longitude>
+<latitude>7.4576017</latitude>
+</mensa>
+<mensa>
+<name>Post Restaurant daylis Engehalde</name>
+<owner>Die Schweizerische Post</owner>
+<address>Engehaldenstrasse 35</address>
+<plz>3012</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 302 12 54</telephone>
+<opentime>Montag bis Freitag
+07.00 - 16.00 Uhr</opentime>
+<website>http://engehalde.sv-group.ch</website>
+<subdomain>engehalde</subdomain>
+<longitude>46.9567138</longitude>
+<latitude>7.4397884</latitude>
+</mensa>
+<mensa>
+<name>Post Restaurant Méditerranée Mägenwil</name>
+<owner>Die Schweizerische Post</owner>
+<address>Almuesenacherstrasse 4</address>
+<plz>5506</plz>
+<city>Mägenwil</city>
+<telephone>Telefon +41 62 896 23 17</telephone>
+<opentime>Montag bis Freitag
+08.00 - 16.00 Uhr</opentime>
+<website>http://mediterranee.sv-group.ch</website>
+<subdomain>mediterranee</subdomain>
+<longitude>47.4152204</longitude>
+<latitude>8.2354012</latitude>
+</mensa>
+<mensa>
+<name>Post Restaurant Oase Basel</name>
+<owner>Die Schweizerische Post</owner>
+<address>Post-Passage 5</address>
+<plz>4002</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 361 46 91</telephone>
+<opentime>Montag bis Freitag
+06.00 - 18.00 Uhr Samstag
+06.00 - 11.00 Uhr</opentime>
+<website>http://oase-briefzentrum.sv-group.ch</website>
+<subdomain>oase-briefzentrum</subdomain>
+<longitude>47.5466902</longitude>
+<latitude>7.5925377</latitude>
+</mensa>
+<mensa>
+<name>PwC-Inn</name>
+<owner>PricewaterhouseCoopers AG</owner>
+<address>Birchstrasse 160</address>
+<plz>8050</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 58 792 20 18</telephone>
+<opentime>Montag bis Freitag
+PR 11.30 - 13.00 / Cafebar 07.00 - 19.00 Uhr</opentime>
+<website>http://pwc-inn.sv-group.ch</website>
+<subdomain>pwc-inn</subdomain>
+<longitude>47.4126830</longitude>
+<latitude>8.5382153</latitude>
+</mensa>
+<mensa>
+<name>Restaurant «inContro»</name>
+<owner>Gewerblich Industrielle Berufsfachschule Thun</owner>
+<address>Mönchstrasse 30 B</address>
+<plz>3600</plz>
+<city>Thun</city>
+<telephone>Telefon +41 33 222 95 21</telephone>
+<opentime>Montag bis Freitag
+07.45 - 18.15 Uhr</opentime>
+<website>http://berufsschulen-thun.sv-group.ch</website>
+<subdomain>berufsschulen-thun</subdomain>
+<longitude>46.7504420</longitude>
+<latitude>7.6319735</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Bella Vista</name>
+<owner>Rivella AG</owner>
+<address>Neue Industriestrasse 10</address>
+<plz>4852</plz>
+<city>Rothrist</city>
+<telephone>Telefon +41 62 785 41 78</telephone>
+<opentime>Montag bis Freitag
+07.00 - 14.00 Uhr</opentime>
+<website>http://bellavista.sv-group.ch</website>
+<subdomain>bellavista</subdomain>
+<longitude>47.3061090</longitude>
+<latitude>7.8702328</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Berner Technopark</name>
+<owner>Ascom Pensionskasse</owner>
+<address>Morgenstrasse 129</address>
+<plz>3018</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 998 41 97</telephone>
+<opentime>Restaurant Montag bis Freitag
+11.30 - 13.15 UhrCafébar Montag bis Freitag
+09.00 - 14.00 Uhr</opentime>
+<website>http://technopark.sv-group.ch</website>
+<subdomain>technopark</subdomain>
+<longitude>46.9346467</longitude>
+<latitude>7.3897156</latitude>
+</mensa>
+<mensa>
+<name>Restaurant CasAroma</name>
+<owner>SV (Schweiz) AG</owner>
+<address>Ueberlandstrasse 138</address>
+<plz>8600</plz>
+<city>Dübendorf</city>
+<telephone>Telefon +41 43 814 18 50 Büro</telephone>
+<opentime>Montag bis Freitag
+07.30 - 14.00 Uhr</opentime>
+<website>http://casaroma.sv-group.ch</website>
+<subdomain>casaroma</subdomain>
+<longitude>47.4001896</longitude>
+<latitude>8.6131152</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Cheminsula «HCI»</name>
+<owner>ETH Zürich, Science City</owner>
+<address></address>
+<plz>8093</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 633 72 45</telephone>
+<opentime>Montag bis Freitag
+11.30 - 14.30 Uhr</opentime>
+<website>http://www.gastro.ethz.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.4006545</longitude>
+<latitude>8.4990385</latitude>
+</mensa>
+<mensa>
+<name>Restaurant daylis</name>
+<owner>Strassenverkehrsamt des Kantons Zürich</owner>
+<address>Uetlibergstrasse 301</address>
+<plz>8036</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 58 811 32 25</telephone>
+<opentime>Montag bis Freitag 06.30 - 16.00 Uhr</opentime>
+<website>http://strassenverkehrsamt.sv-group.ch</website>
+<subdomain>strassenverkehrsamt</subdomain>
+<longitude>47.3534369</longitude>
+<latitude>8.5128765</latitude>
+</mensa>
+<mensa>
+<name>Restaurant daylis BFS Winterthur</name>
+<owner>Berufsfachschule BFS Winterthur</owner>
+<address>Tösstalstrasse 26</address>
+<plz>8400</plz>
+<city>Winterthur</city>
+<telephone>Telefon +41 52 213 34 60</telephone>
+<opentime>Montag bis Freitag
+07.15 - 16.00 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.4966567</longitude>
+<latitude>8.7341421</latitude>
+</mensa>
+<mensa>
+<name>Restaurant daylis ERZ Bern</name>
+<owner>Erziehungsdirektion des Kantons Bern</owner>
+<address>Sulgeneckstrasse 70</address>
+<plz>3005</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 633 85 33</telephone>
+<opentime>Montag bis Donnerstag
+07.45 - 16.00 Uhr  Freitag
+07.45 - 15.30 Uhr</opentime>
+<website>http://erziehungsdirektion.sv-group.ch</website>
+<subdomain>erziehungsdirektion</subdomain>
+<longitude>46.9405224</longitude>
+<latitude>7.4406683</latitude>
+</mensa>
+<mensa>
+<name>Restaurant daylis Gewerbliche Berufsschule Chur</name>
+<owner>Gewerbliche Berufsschule</owner>
+<address>Scalettastrasse 33</address>
+<plz>7000</plz>
+<city>Chur</city>
+<telephone>Telefon +41 81 284 26 53</telephone>
+<opentime>Montag bis Freitag
+07.00 - 16.30 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>46.8559121</longitude>
+<latitude>9.5246408</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Druckzentrum Bubenberg</name>
+<owner>Tamedia AG</owner>
+<address>Bubenbergstrasse 1</address>
+<plz>8021</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 248 49 51</telephone>
+<opentime>Montag bis Freitag Cafeteria 08.00 - 15.00 Uhr
+Restaurant 11.00 bis 13.30 Uhr und 18.00 - 22.00 Uhr
+Verpflegungsautomaten sind rund um die Uhr zugänglich</opentime>
+<website>http://bubenberg.sv-group.ch</website>
+<subdomain>bubenberg</subdomain>
+<longitude>47.3587023</longitude>
+<latitude>8.5202370</latitude>
+</mensa>
+<mensa>
+<name>Restaurant du BAP</name>
+<owner>Bâtiment administratif de la Pontaise</owner>
+<address>av. des Casernes 2</address>
+<plz>1018</plz>
+<city>Lausanne</city>
+<telephone>Telefon +41 21 648 15 53</telephone>
+<opentime>lundi - jeudi
+06 h 00 - 18 h 00
+vendredi
+06 h 00 - 17 h 00</opentime>
+<website>http://bap.sv-group.ch</website>
+<subdomain>bap</subdomain>
+<longitude>46.5317569</longitude>
+<latitude>6.6264698</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Empa</name>
+<owner>EMPA</owner>
+<address>Kriesbachstrasse 45</address>
+<plz>8600</plz>
+<city>Dübendorf</city>
+<telephone>Telefon +41 58 765 49 31</telephone>
+<opentime>Montag bis Freitag
+06.30 - 16.30 Uhr</opentime>
+<website>http://empa-eawag.sv-group.ch</website>
+<subdomain>empa-eawag</subdomain>
+<longitude>47.4038460</longitude>
+<latitude>8.6135668</latitude>
+</mensa>
+<mensa>
+<name>Restaurant five moods</name>
+<owner>Siemens Schweiz AG</owner>
+<address>Dammstrasse 22</address>
+<plz>6301</plz>
+<city>Zug</city>
+<telephone>Telefon +41 41 724 64 40</telephone>
+<opentime>Montag bis Freitag Restaurant 11.15 - 13.30 Uhr
+Coffeebar 07.00 - 14.30 Uhr</opentime>
+<website>http://siemens.sv-group.ch</website>
+<subdomain>siemens</subdomain>
+<longitude>47.1761324</longitude>
+<latitude>8.5146356</latitude>
+</mensa>
+<mensa>
+<name>Restaurant GIARDINO</name>
+<owner>HACO AG</owner>
+<address>Worbstrasse 262</address>
+<plz>3073</plz>
+<city>Gümligen</city>
+<telephone>Telefon +41 31 950 14 46</telephone>
+<opentime>Montag bis Freitag
+06.30 - 13.30 Uhr</opentime>
+<website>http://giardino.sv-group.ch</website>
+<subdomain>giardino</subdomain>
+<longitude>46.9325579</longitude>
+<latitude>7.5101999</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Hangar 11</name>
+<owner>skyguide</owner>
+<address>Flugsicherungsstrasse 1 - 5</address>
+<plz>8602</plz>
+<city>Wangen</city>
+<telephone>Telefon +41 43 931 67 92 Büro</telephone>
+<opentime>Montag bis Freitag
+07.00 - 19.30 UhrSamstag und Sonntag
+07.00 - 14.00 Uhr und 17.00 - 19.30 Uhr</opentime>
+<website>http://hangar11.sv-group.ch</website>
+<subdomain>hangar11</subdomain>
+<longitude>47.4073877</longitude>
+<latitude>8.6400526</latitude>
+</mensa>
+<mensa>
+<name>Restaurant l&#039;Attique de l&#039;OMM</name>
+<owner>Organisation Météorologique Mondiale</owner>
+<address>Avenue de la Paix 7bis</address>
+<plz>1202</plz>
+<city>Genève</city>
+<telephone>Telefon +41 22 730 80 60</telephone>
+<opentime>lundi - vendredi
+07 h 30 - 17 h 00</opentime>
+<website>http://omm.sv-group.ch</website>
+<subdomain>omm</subdomain>
+<longitude>46.2235292</longitude>
+<latitude>6.1473456</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Manegg</name>
+<owner>Avaloq</owner>
+<address>Allmendstrasse 140</address>
+<plz>8027</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 480 09 80</telephone>
+<opentime>Montag bis Freitag
+07.00 - 15.00 Uhr</opentime>
+<website>http://manegg.sv-group.ch</website>
+<subdomain>manegg</subdomain>
+<longitude>47.3385710</longitude>
+<latitude>8.5183202</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Oasis</name>
+<owner>D4 Business Center Luzern</owner>
+<address>D4 Platz 4</address>
+<plz>6039</plz>
+<city>Root-D4</city>
+<telephone>Telefon +41 41 455 22 88</telephone>
+<opentime>Montag bis Freitag
+07.00 - 19.00 Uhr</opentime>
+<website>http://www.d4center.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.1035954</longitude>
+<latitude>8.3741447</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Reiterstrasse</name>
+<owner>Kantonale Verwaltung</owner>
+<address>Reiterstrasse 11</address>
+<plz>3011</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 332 08 78</telephone>
+<opentime>Montag bis Donnerstag
+07.30 - 16.30 Uhr Freitag
+07.30 - 16.00 Uhr</opentime>
+<website>http://reiterstrasse.sv-group.ch</website>
+<subdomain>reiterstrasse</subdomain>
+<longitude>46.9536532</longitude>
+<latitude>7.4618976</latitude>
+</mensa>
+<mensa>
+<name>Restaurant SUVA</name>
+<owner>Suva Lausanne</owner>
+<address>Avenue Tissot 13</address>
+<plz>1003</plz>
+<city>Lausanne</city>
+<telephone>Telefon +41 21 323 42 32</telephone>
+<opentime>lundi - vendredi
+07 h 00 - 16 h 00</opentime>
+<website>http://suva-lausanne.sv-group.ch</website>
+<subdomain>suva-lausanne</subdomain>
+<longitude>46.5165079</longitude>
+<latitude>6.6367184</latitude>
+</mensa>
+<mensa>
+<name>Restaurant T@Zino</name>
+<owner>T-Systems (Schweiz) AG</owner>
+<address>Industriestrasse 21</address>
+<plz>3052</plz>
+<city>Zollikofen</city>
+<telephone>Telefon +41 31 915 46 50</telephone>
+<opentime>Montag bis Freitag
+07.30 - 15.30 Uhr</opentime>
+<website>http://tazino.sv-group.ch</website>
+<subdomain>tazino</subdomain>
+<longitude>47.0046549</longitude>
+<latitude>7.4651666</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Top Air</name>
+<owner>OFEFA</owner>
+<address>Place d&#039;Armes</address>
+<plz>1530</plz>
+<city>Payerne</city>
+<telephone>Telefon +41 26 662 20 05</telephone>
+<opentime>lundi - vendredi
+06 h 00 - 17 h 00</opentime>
+<website>http://topair.sv-group.ch</website>
+<subdomain>topair</subdomain>
+<longitude>46.819528</longitude>
+<latitude>6.931214</latitude>
+</mensa>
+<mensa>
+<name>Restaurant Touch and Go</name>
+<owner>RUAG Aerospace</owner>
+<address>Bönigstrasse 15</address>
+<plz>3800</plz>
+<city>Interlaken</city>
+<telephone>Telefon +41 33 822 24 31</telephone>
+<opentime>Montag bis Freitag
+08.00 - 14.00 Uhr</opentime>
+<website>http://ruag-touchandgo.sv-group.ch</website>
+<subdomain>ruag-touchandgo</subdomain>
+<longitude>46.6839855</longitude>
+<latitude>7.8710311</latitude>
+</mensa>
+<mensa>
+<name>Restaurant visavis</name>
+<owner>Ammann Schweiz AG</owner>
+<address>Güterstrasse 20</address>
+<plz>4900</plz>
+<city>Langenthal</city>
+<telephone>Telefon +41 62 923 30 07</telephone>
+<opentime>Montag bis Freitag 11.30 - 13.30 Uhr</opentime>
+<website>http://visavis.sv-group.ch</website>
+<subdomain>visavis</subdomain>
+<longitude>47.2167599</longitude>
+<latitude>7.7821305</latitude>
+</mensa>
+<mensa>
+<name>Restaurants Ascom</name>
+<owner>Ascom AG</owner>
+<address>Belpstrasse 39</address>
+<plz>3007</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 398 07 45</telephone>
+<opentime>Montag bis Freitag Restaurant Mattenhofkeller 11.30 - 13.30 Uhr
+Café Mattenhof 08.30 - 15.30 Uhr</opentime>
+<website>http://www.restaurants-ascom.ch</website>
+<subdomain>www</subdomain>
+<longitude>46.9434366</longitude>
+<latitude>7.4323938</latitude>
+</mensa>
+<mensa>
+<name>Ristorante UBS Suglio</name>
+<owner>UBS AG</owner>
+<address>Via Cantonale 18</address>
+<plz>6928</plz>
+<city>Manno</city>
+<telephone>Telefon +41 91 801 81 37</telephone>
+<opentime>Montag bis Freitag Ristorante 08.30 - 16.00 Uhr
+Bar 07.30 - 8.30 Uhr
+12.00 - 14.00 Uhr und 16.30 - 20.00 Uhr
+Bistro 11.30 -14.00 Uhr</opentime>
+<website>http://ubs-suglio.sv-group.ch</website>
+<subdomain>ubs-suglio</subdomain>
+<longitude>46.0303686</longitude>
+<latitude>8.9222429</latitude>
+</mensa>
+<mensa>
+<name>SBB Bistro Weyermannshaus</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Bahnstrasse 22</address>
+<plz>3008</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 381 63 82</telephone>
+<opentime>Montag bis Freitag
+06.30 - 15.00 Uhr</opentime>
+<website>http://weyermannshaus.sv-group.ch</website>
+<subdomain>weyermannshaus</subdomain>
+<longitude>46.9480575</longitude>
+<latitude>7.4137803</latitude>
+</mensa>
+<mensa>
+<name>SBB Personalrestaurant Erstfeld</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Gotthardstrasse 97</address>
+<plz>6472</plz>
+<city>Erstfeld</city>
+<telephone>Telefon +41 41 880 11 66</telephone>
+<opentime>Montag 05.00 - Sonntag 14.00
+durchgehend geöffnet</opentime>
+<website>http://sbb-erstfeld.sv-group.ch</website>
+<subdomain>sbb-erstfeld</subdomain>
+<longitude>46.8209825</longitude>
+<latitude>8.6501816</latitude>
+</mensa>
+<mensa>
+<name>SBB Personalrestaurant Pendolino</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Bahnhofstrasse 22</address>
+<plz>4600</plz>
+<city>Olten</city>
+<telephone>Telefon +41 62 296 59 40</telephone>
+<opentime>Restaurant Montag bis Freitag
+11.00 - 14.00 UhrCaffeebar Freitag bis Samstag
+05.00 - 01.00 Uhr</opentime>
+<website>http://pendolino.sv-group.ch</website>
+<subdomain>pendolino</subdomain>
+<longitude>47.3519933</longitude>
+<latitude>7.9076087</latitude>
+</mensa>
+<mensa>
+<name>SBB Personalrestaurant Winterthur</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Bahnhofplatz 7</address>
+<plz>8400</plz>
+<city>Winterthur</city>
+<telephone>Telefon +41 52 212 58 62</telephone>
+<opentime>Montag bis Freitag
+05.30 - 21.00 Uhr</opentime>
+<website>http://sbb-winterthur.sv-group.ch</website>
+<subdomain>sbb-winterthur</subdomain>
+<longitude>47.5002958</longitude>
+<latitude>8.7239967</latitude>
+</mensa>
+<mensa>
+<name>SBB Personalrestaurant Zur Juraschlaufe</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Walkeweg 55</address>
+<plz>4053</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 333 05 95</telephone>
+<opentime>Montag bis Samstag
+06.00 - 16.00 Uhr</opentime>
+<website>http://juraschlaufe.sv-group.ch</website>
+<subdomain>juraschlaufe</subdomain>
+<longitude>47.5410227</longitude>
+<latitude>7.6126969</latitude>
+</mensa>
+<mensa>
+<name>SBB Restaurant Elsässertor</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Viaduktstrasse 3</address>
+<plz>4051</plz>
+<city>Basel</city>
+<telephone>Telefon +41 61 222 21 31</telephone>
+<opentime>Montag bis Freitag Restaurant 11.00 - 14.15 Uhr  transBARent 06.30 - 16.00 Uhr</opentime>
+<website>http://elsaessertor.sv-group.ch</website>
+<subdomain>elsaessertor</subdomain>
+<longitude>47.5487130</longitude>
+<latitude>7.5862071</latitude>
+</mensa>
+<mensa>
+<name>SBB Restaurant Grosse Schanze</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Parkterrasse 10</address>
+<plz>3012</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 318 72 00</telephone>
+<opentime>Montag bis Freitag
+06.30 - 21.00 Uhr Samstag
+08.00 - 18.00 Uhr</opentime>
+<website>http://schanze.sv-group.ch</website>
+<subdomain>schanze</subdomain>
+<longitude>46.9499044</longitude>
+<latitude>7.4392498</latitude>
+</mensa>
+<mensa>
+<name>SBB Restaurant Muttenz</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Grenzacherstrasse 31</address>
+<plz>4132</plz>
+<city>Muttenz</city>
+<telephone>Telefon +41 61 463 11 50</telephone>
+<opentime>Montag bis Freitag
+05.30 - 01.00 Uhr Samstag
+06.00 - 10.00 Uhr</opentime>
+<website>http://sbb-muttenz.sv-group.ch</website>
+<subdomain>sbb-muttenz</subdomain>
+<longitude>47.5365357</longitude>
+<latitude>7.6451410</latitude>
+</mensa>
+<mensa>
+<name>SBB Restaurant Rangierbahnhof</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Schwanengasse 54</address>
+<plz>2503</plz>
+<city>Biel</city>
+<telephone>Telefon +41 32 361 20 94</telephone>
+<opentime>Montag bis Freitag
+06.00 - 16.00 Uhr</opentime>
+<website>http://sbb-bienne.sv-group.ch</website>
+<subdomain>sbb-bienne</subdomain>
+<longitude>47.1414679</longitude>
+<latitude>7.2614643</latitude>
+</mensa>
+<mensa>
+<name>SBB Restaurant Reperaturcenter Altstetten</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Hohlstrasse 420</address>
+<plz>8048</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 400 13 81</telephone>
+<opentime>Montag bis Freitag 06.00 - 14.00 Uhr</opentime>
+<website>http://sbb-altstetten.sv-group.ch</website>
+<subdomain>sbb-altstetten</subdomain>
+<longitude>47.3874493</longitude>
+<latitude>8.5009927</latitude>
+</mensa>
+<mensa>
+<name>SBB Restaurant Tannwald</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Industriestrasse 55</address>
+<plz>4600</plz>
+<city>Olten</city>
+<telephone>Telefon +41 62 296 80 24</telephone>
+<opentime>Montag bis Donnerstag
+06.00 - 16.00 UhrFreitag
+06.00 - 15.00 Uhr</opentime>
+<website>http://sbb-tannwald.sv-group.ch</website>
+<subdomain>sbb-tannwald</subdomain>
+<longitude>47.3618189</longitude>
+<latitude>7.9133343</latitude>
+</mensa>
+<mensa>
+<name>SBB Restaurant WylerPark</name>
+<owner>Schweizerische Bundesbahnen SBB</owner>
+<address>Wylerstrasse 125</address>
+<plz>3014</plz>
+<city>Bern</city>
+<telephone>Telefon +41 31 332 95 72</telephone>
+<opentime>Montag bis Freitag 07.00 - 16.00 Uhr</opentime>
+<website>http://wylerpark.sv-group.ch</website>
+<subdomain>wylerpark</subdomain>
+<longitude>46.9620836</longitude>
+<latitude>7.4466338</latitude>
+</mensa>
+<mensa>
+<name>SPIGA Ristorante Westside</name>
+<owner>SV (Schweiz) AG</owner>
+<address>Gilberte de Courgenay-Platz 4</address>
+<plz>3027</plz>
+<city>Bern-Brünnen</city>
+<telephone>Telefon +41 31 991 99 77</telephone>
+<opentime>Montag bis Donnerstag 09.00 - 23.00 UhrFreitag 09.00 - 00.30 UhrSamstag 08.00 - 00.30 UhrSonntag 10.00 - 23.00 Uhr</opentime>
+<website>http://www.spiga-ristorante.ch</website>
+<subdomain>www</subdomain>
+<longitude>46.9444617</longitude>
+<latitude>7.3742209</latitude>
+</mensa>
+<mensa>
+<name>TBZ Restaurant &quot;TECHNOLINO&quot;</name>
+<owner>Mittelschul- und Berufsbildungsamt des Kantons ZH</owner>
+<address>Ausstellungsstrasse 70</address>
+<plz>8090</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 446 96 16</telephone>
+<opentime>Montag bis Freitag
+07.00 - 16.00 Uhr</opentime>
+<website>http://technolino.sv-group.ch</website>
+<subdomain>technolino</subdomain>
+<longitude>47.3833433</longitude>
+<latitude>8.5351465</latitude>
+</mensa>
+<mensa>
+<name>the headQuarters</name>
+<owner>Swiss</owner>
+<address>Obstgartenstrasse 25/29</address>
+<plz>8302</plz>
+<city>Kloten</city>
+<telephone>Telefon +41 43 819 45 10</telephone>
+<opentime>Montag bis Freitag Restaurants 11.30 - 13.30 Uhr
+Bar &amp; Lounge 7.30 - 17.00 Uhr</opentime>
+<website>http://headquarters.sv-group.ch</website>
+<subdomain>headquarters</subdomain>
+<longitude>47.4516489</longitude>
+<latitude>8.5773051</latitude>
+</mensa>
+<mensa>
+<name>timeout Restaurant Lenzburg</name>
+<owner>Berufsschule Lenzburg</owner>
+<address>Neuhofstrasse 36</address>
+<plz>5600</plz>
+<city>Lenzburg</city>
+<telephone>Telefon +41 62 885 39 13</telephone>
+<opentime>Montag bis Freitag
+07.00 - 16.00 Uhr Samstag 08.00 - 11.00 Uhr (bei Bedarf länger)</opentime>
+<website>http://timeout-bsl.sv-group.ch</website>
+<subdomain>timeout-bsl</subdomain>
+<longitude>47.3893148</longitude>
+<latitude>8.1912794</latitude>
+</mensa>
+<mensa>
+<name>UBS Restaurant Flur</name>
+<owner>UBS AG</owner>
+<address>Flurstrasse 70/72</address>
+<plz>8048</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 236 50 12</telephone>
+<opentime>Montag bis Freitag
+07.00 - 16.00 Uhr</opentime>
+<website>http://ubs-flur.sv-group.ch</website>
+<subdomain>ubs-flur</subdomain>
+<longitude>47.3829373</longitude>
+<latitude>8.4927578</latitude>
+</mensa>
+<mensa>
+<name>wagamama sihlporte</name>
+<owner>SV (Schweiz) AG</owner>
+<address>Talstrasse 83</address>
+<plz>8001</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 43 888 64 54</telephone>
+<opentime>Sonntag bis Mittwoch
+11.30 - 22.00 Uhr Donnerstag bis Samstag
+11.30 - 23.00 Uhr</opentime>
+<website>http://www.wagamama.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.3720925</longitude>
+<latitude>8.5339750</latitude>
+</mensa>
+<mensa>
+<name>wipfrestaurant</name>
+<owner>Wipf AG</owner>
+<address>Industriestrasse 29</address>
+<plz>8604</plz>
+<city>Volketswil</city>
+<telephone>Telefon +41 44 945 32 31</telephone>
+<opentime>Montag bis Freitag
+07.00 - 14.30 Uhr</opentime>
+<website></website>
+<subdomain></subdomain>
+<longitude>47.3803721</longitude>
+<latitude>8.6803001</latitude>
+</mensa>
+<mensa>
+<name>Zunfthaus zur Schmiden</name>
+<owner>Dine-Shine</owner>
+<address>Marktgasse 20</address>
+<plz>8001</plz>
+<city>Zürich</city>
+<telephone>Telefon +41 44 250 58 48</telephone>
+<opentime>nach Reservation</opentime>
+<website>http://www.zunfthausschmiden.ch</website>
+<subdomain>www</subdomain>
+<longitude>47.3722048</longitude>
+<latitude>8.5439082</latitude>
+</mensa></root>
