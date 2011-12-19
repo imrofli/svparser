@@ -56,6 +56,7 @@ class menuparser(object):
             self.date= 'Geschlossen'
         else:
             self.date = self.result.find(text=True)
+            self.date = self.date.split(", ")[1]
         self.result = ''
         self.result = soup.findAll('div', { "class" : "menuitem" })
         for element in self.result:

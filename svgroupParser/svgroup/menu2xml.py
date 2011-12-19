@@ -2,6 +2,8 @@
 import httplib
 import sys
 from menuparser import menuparser
+from datetime import date, datetime
+import re
 sys.stderr = sys.stdout
 
 def check_int(s):
@@ -10,39 +12,37 @@ def check_int(s):
     return s.isdigit()
 
 if (len(sys.argv) > 1):
-    if sys.argv[1].isdigit():
-        weekday = int(sys.argv[1])
+    if re.match('\d+\.\d+\.\d\d\d\d', sys.argv[1]):
+        buff = sys.argv[1]
+        c = datetime.strptime(buff,"%d.%m.%Y")
+        dateset = c.date()
     else:
-        weekday = 0
+        dateset = date.today()
     if sys.argv[2].isdigit():
         form = int(sys.argv[2])
     else:
         form = 0
-    if check_int(sys.argv[3]):
-        weekDiff = int(sys.argv[3])
-    else:
-        weekDiff = 0
-    subdomain=sys.argv[4]
+    subdomain=sys.argv[3]
 else:
-    weekday = 0
+    dateset = date.today()
     form = 0
-    weekDiff = 0
     subdomain = 'hochschule-rapperswil'
     
+today = date.today()
+datediff = dateset.isocalendar()[1] - today.isocalendar()[1]
     
-if weekday < 8 and weekday > -1:
-    h1 = httplib.HTTPConnection(subdomain + '.sv-group.ch')
-    h1.request('GET', '/de/menuplan.html?addGP[weekday]=' + str(weekday) + '&addGP[weekmod]=' + str(weekDiff))
-    res = h1.getresponse()
-    if res.status != 200:
-        print 'Errr!!!! Address seems to be a troublesome URL. The "Internet" says "', res.reason, '" and the status was', res.status, '. Try again.'
-    else:
-        data = res.read()
-        allheaders = res.getheaders()
-        parse = menuparser(form, subdomain)
-        parse.parse(data)
-        parse.writeInDB()
-        print parse.printAll().encode("utf-8")
+h1 = httplib.HTTPConnection(subdomain + '.sv-group.ch')
+h1.request('GET', '/de/menuplan.html?addGP[weekday]=' + str(dateset.isoweekday()) + '&addGP[weekmod]=' + str(datediff))
+res = h1.getresponse()
+if res.status != 200:
+    print 'Errr!!!! Address seems to be a troublesome URL. The "Internet" says "', res.reason, '" and the status was', res.status, '. Try again.'
 else:
-    print 'ERROR 001: Fucking idiot. how many days does a week have? Right... 7'
+    data = res.read()
+    allheaders = res.getheaders()
+    parse = menuparser(form, subdomain)
+    parse.parse(data)
+    parse.writeInDB()
+#    print parse.printAll().encode("utf-8")
+#    print str(dateset.isoweekday()) + " " + str(datediff)
+
     

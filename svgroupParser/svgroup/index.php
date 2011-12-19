@@ -1,5 +1,14 @@
 <?php
-
+//Fucking workaround will hostpoint kei locale frisst!!
+$days = array(
+    'Montag',
+    'Dienstag',
+    'Mittwoch',
+    'Donnerstag',
+    'Freitag',
+    'Samstag',
+    'Sonntag',
+);
 try 
 {
     /*** connect to SQLite database ***/
@@ -23,10 +32,21 @@ else if (isset($_COOKIE["localmensa"])) {
   }
 
 if ($subdomain != "" && $subdomain != "NULL") {
-	echo "<br><a href=\"setmensa.php\">Mensa auswaehlen</a>";
-	$day = $_GET["day"];
-	if(!($day<8 and $day>-1)){
-	$day=0;
+	echo "<!DOCTYPE html>";
+	echo "<html>   <head>     <title>" . $subdomain . " Menuplan</title>";
+	echo "     <link rel=\"icon\" type=\"image/png\" href=\"./favicon.png\">";
+	echo "    <link rel=\"apple-touch-icon\" href=\"./ifavicon.png\">";
+	echo "     <link href=\'http://fonts.googleapis.com/css?family=Prociono\' rel=\'stylesheet\' type=\'text/css\'>";
+	echo "    <link rel=\"stylesheet\" type=\"text/css\" href=\"design.css\" >";
+	echo "</head>   <body>     <div id=\"main\">";
+	echo "<br><a href=\"setmensa.php\">Mensa auswaehlen</a><br>";
+	$date = $_GET["date"];
+	if ($date == 0){
+		$today=date('d.m.Y');
+	}
+	else {
+		$buff = strtotime($date);
+		$today = date('d.m.Y', $buff);
 	}
 	
 	$form = $_GET["form"];
@@ -48,7 +68,7 @@ if ($subdomain != "" && $subdomain != "NULL") {
 	if(empty($mensa) || $mensa=="NULL"){
 		$mensa = "hochschule-rapperswil";
 	}
-	$command="python menu2xml.py " .$day ." " .$form_chosen . " " .$weekmod . " " . $mensa;
+	
 	
 	if($form_chosen==1){
 	header("Content-type: text/xml");
@@ -59,9 +79,74 @@ if ($subdomain != "" && $subdomain != "NULL") {
 	else {
 	header("Content-type: text/html; charset=UTF-8");
 	}
-	//use the passthru command to execute and return the result
 	
-	echo passthru("$command");
+		
+	$hasValue=False;
+	$query = "SELECT * FROM mensa2menu where subdomain='" . $subdomain . "'";
+	if($result = $database->query($query, SQLITE_BOTH, $error))
+	{
+		
+		while($row = $result->fetch())
+	  {
+	  	
+	  	$strA = $row[1];
+	  	if ($strA==$today){
+	  	$hasValue=True;
+	  	}
+	  }
+	}
+	
+	if(!$hasValue){
+		$command="python menu2xml.py " .$today ." " .$form_chosen . " " . $mensa;
+		passthru("$command");
+		if($result = $database->query($query, SQLITE_BOTH, $error))
+	{
+		
+		while($row = $result->fetch())
+	  {
+	  	
+	  	$strA = $row[1];
+	  	if ($strA==$today){
+	  	$hasValue=True;
+	  	}
+	  }
+	}
+	}
+	
+	$buff = strtotime($today);
+	$weekday = date('N', $buff)-1;
+	if(!$hasValue){
+		echo "<h1>Kein Menuplan verfuegbar</h1>";
+		$query = "SELECT * FROM mensas where subdomain='" . $subdomain . "'";
+		if($result = $database->query($query, SQLITE_BOTH, $error))
+		{
+			while($row = $result->fetch())
+	  		{
+	  			echo "<h2>Kontaktinformationen:</h2>"; 
+	  			echo $row[1] . " / " . $row[2] . "<br>";
+	  			echo $row[3] . "<br>";
+	  			echo $row[4] . " " . $row[5] . "<br>";
+	  			echo $row[6] . "<br>";
+	  			echo "Offen:<br>" . $row[7];
+	  			echo "<br><a href=\"" . $row[8] . "\">" . $row[8] . "</a>";
+	  		}
+		}
+	}
+	else {
+		echo "<h1>" . $days[$weekday] ." ,". strftime('%d.%m.%Y', $buff) . "</h1>";
+		$query = "SELECT * FROM menu where subdomain='" . $subdomain . "' AND date='" . $today . "'";
+		if($result = $database->query($query, SQLITE_BOTH, $error))
+		{
+			while($row = $result->fetch())
+		  {
+		  	echo "<h2>" . $row[1] . "</h2>\n";
+		  	echo "<p>" . $row[2];
+		  	echo "<br>" . $row[3];
+		  	echo "<br>" . $row[4] . " - " . $row[5] . "</p>\n";
+	
+		  }
+		}
+	}
 	
 }
 
